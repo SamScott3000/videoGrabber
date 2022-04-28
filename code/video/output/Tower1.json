@@ -1,0 +1,5120 @@
+{
+  "annotation_results": [ {
+    "input_uri": "/sentiment-classification-test/video/Tower1.mp4",
+    "segment": {
+      "start_time_offset": {
+      
+      },
+      "end_time_offset": {
+        "seconds": 209,
+        "nanos": 166666000
+      }
+    },
+    "segment_label_annotations": [ {
+      "entity": {
+        "entity_id": "/m/034z7h",
+        "description": "cityscape",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/01n32",
+        "description": "city",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+          
+          },
+          "end_time_offset": {
+            "seconds": 209,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.77313346
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/0j_s4",
+        "description": "metropolitan area",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/01n32",
+        "description": "city",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+          
+          },
+          "end_time_offset": {
+            "seconds": 209,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.58877206
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/0204fg",
+        "description": "skyline",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/01n32",
+        "description": "city",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+          
+          },
+          "end_time_offset": {
+            "seconds": 209,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.70319563
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/01d74z",
+        "description": "night",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+          
+          },
+          "end_time_offset": {
+            "seconds": 209,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.55147076
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/056mk",
+        "description": "metropolis",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/01n32",
+        "description": "city",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+          
+          },
+          "end_time_offset": {
+            "seconds": 209,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.46621707
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/039jbq",
+        "description": "urban area",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/01n32",
+        "description": "city",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+          
+          },
+          "end_time_offset": {
+            "seconds": 209,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.36374381
+      } ]
+    } ],
+    "shot_label_annotations": [ {
+      "entity": {
+        "entity_id": "/m/083wq",
+        "description": "wheel",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 144,
+            "nanos": 458333000
+          },
+          "end_time_offset": {
+            "seconds": 145,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.40371108
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/07s6nbt",
+        "description": "text",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+          
+          },
+          "end_time_offset": {
+            "seconds": 2
+          }
+        },
+        "confidence": 0.42520982
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/0dwx7",
+        "description": "logo",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/021sdg",
+        "description": "graphics",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+          
+          },
+          "end_time_offset": {
+            "seconds": 2
+          }
+        },
+        "confidence": 0.35979313
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/05qtj",
+        "description": "paris",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 7,
+            "nanos": 708333000
+          },
+          "end_time_offset": {
+            "seconds": 8,
+            "nanos": 791666000
+          }
+        },
+        "confidence": 0.95966077
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 151,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 153,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.91582298
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/0dpvm",
+        "description": "arch",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/03nfmq",
+        "description": "architecture",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 182,
+            "nanos": 833333000
+          },
+          "end_time_offset": {
+            "seconds": 183,
+            "nanos": 291666000
+          }
+        },
+        "confidence": 0.63702357
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/04szw",
+        "description": "musical instrument",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 3
+          },
+          "end_time_offset": {
+            "seconds": 5,
+            "nanos": 83333000
+          }
+        },
+        "confidence": 0.39272463
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/01bqvp",
+        "description": "sky",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 7,
+            "nanos": 708333000
+          },
+          "end_time_offset": {
+            "seconds": 8,
+            "nanos": 791666000
+          }
+        },
+        "confidence": 0.33307436
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 18,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 19,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.85466266
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 28,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 29,
+            "nanos": 625000000
+          }
+        },
+        "confidence": 0.77745444
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 29,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 30,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.53901124
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 34,
+            "nanos": 166666000
+          },
+          "end_time_offset": {
+            "seconds": 35,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.54725838
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 36,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 39,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.67303646
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 76,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 79,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.70451975
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 79,
+            "nanos": 166666000
+          },
+          "end_time_offset": {
+            "seconds": 81,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.93940985
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 81,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 83,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.58852452
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 89,
+            "nanos": 83333000
+          },
+          "end_time_offset": {
+            "seconds": 91
+          }
+        },
+        "confidence": 0.31564546
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 92,
+            "nanos": 83333000
+          },
+          "end_time_offset": {
+            "seconds": 93,
+            "nanos": 916666000
+          }
+        },
+        "confidence": 0.43650723
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 95,
+            "nanos": 625000000
+          },
+          "end_time_offset": {
+            "seconds": 98,
+            "nanos": 41666000
+          }
+        },
+        "confidence": 0.33048075
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 103,
+            "nanos": 500000000
+          },
+          "end_time_offset": {
+            "seconds": 104,
+            "nanos": 583333000
+          }
+        },
+        "confidence": 0.33307436
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 105,
+            "nanos": 750000000
+          },
+          "end_time_offset": {
+            "seconds": 106,
+            "nanos": 791666000
+          }
+        },
+        "confidence": 0.42077917
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 106,
+            "nanos": 833333000
+          },
+          "end_time_offset": {
+            "seconds": 110,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.33048075
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 113,
+            "nanos": 125000000
+          },
+          "end_time_offset": {
+            "seconds": 120,
+            "nanos": 833333000
+          }
+        },
+        "confidence": 0.33048075
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 151,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 153,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.36634508
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 192,
+            "nanos": 916666000
+          },
+          "end_time_offset": {
+            "seconds": 199,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.32226908
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/08863x",
+        "description": "bird's eye view",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/025s3q0",
+        "description": "landscape",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 28,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 29,
+            "nanos": 625000000
+          }
+        },
+        "confidence": 0.47822726
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 29,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 30,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.81249326
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 30,
+            "nanos": 250000000
+          },
+          "end_time_offset": {
+            "seconds": 31,
+            "nanos": 708333000
+          }
+        },
+        "confidence": 0.9028132
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 34,
+            "nanos": 166666000
+          },
+          "end_time_offset": {
+            "seconds": 35,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.81249326
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 36,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 39,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.67367756
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 76,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 79,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.90096337
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 81,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 83,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.95026737
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 106,
+            "nanos": 833333000
+          },
+          "end_time_offset": {
+            "seconds": 110,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.86989093
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 113,
+            "nanos": 125000000
+          },
+          "end_time_offset": {
+            "seconds": 120,
+            "nanos": 833333000
+          }
+        },
+        "confidence": 0.34311527
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 124,
+            "nanos": 875000000
+          },
+          "end_time_offset": {
+            "seconds": 128,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.96167558
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/01d74z",
+        "description": "night",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 3
+          },
+          "end_time_offset": {
+            "seconds": 5,
+            "nanos": 83333000
+          }
+        },
+        "confidence": 0.87683374
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 5,
+            "nanos": 125000000
+          },
+          "end_time_offset": {
+            "seconds": 6
+          }
+        },
+        "confidence": 0.7516228
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 6,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 7,
+            "nanos": 666666000
+          }
+        },
+        "confidence": 0.55147076
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 7,
+            "nanos": 708333000
+          },
+          "end_time_offset": {
+            "seconds": 8,
+            "nanos": 791666000
+          }
+        },
+        "confidence": 0.9205122
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 8,
+            "nanos": 833333000
+          },
+          "end_time_offset": {
+            "seconds": 9,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.7885834
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 9,
+            "nanos": 958333000
+          },
+          "end_time_offset": {
+            "seconds": 10,
+            "nanos": 458333000
+          }
+        },
+        "confidence": 0.7885834
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 13,
+            "nanos": 750000000
+          },
+          "end_time_offset": {
+            "seconds": 15
+          }
+        },
+        "confidence": 0.38372806
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 16,
+            "nanos": 708333000
+          },
+          "end_time_offset": {
+            "seconds": 17,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.87683374
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 17,
+            "nanos": 791666000
+          },
+          "end_time_offset": {
+            "seconds": 18,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.74338937
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 18,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 19,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.90578353
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 19,
+            "nanos": 250000000
+          },
+          "end_time_offset": {
+            "seconds": 20,
+            "nanos": 625000000
+          }
+        },
+        "confidence": 0.60766309
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 20,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 21,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.3819446
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 21,
+            "nanos": 791666000
+          },
+          "end_time_offset": {
+            "seconds": 22,
+            "nanos": 500000000
+          }
+        },
+        "confidence": 0.9205122
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 24,
+            "nanos": 625000000
+          },
+          "end_time_offset": {
+            "seconds": 25,
+            "nanos": 83333000
+          }
+        },
+        "confidence": 0.38950476
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 25,
+            "nanos": 125000000
+          },
+          "end_time_offset": {
+            "seconds": 26,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.7885834
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 28,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 29,
+            "nanos": 625000000
+          }
+        },
+        "confidence": 0.94442463
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 29,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 30,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.94442463
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 30,
+            "nanos": 250000000
+          },
+          "end_time_offset": {
+            "seconds": 31,
+            "nanos": 708333000
+          }
+        },
+        "confidence": 0.9422577
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 31,
+            "nanos": 750000000
+          },
+          "end_time_offset": {
+            "seconds": 33
+          }
+        },
+        "confidence": 0.9205122
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 33,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 34,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.9201774
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 34,
+            "nanos": 166666000
+          },
+          "end_time_offset": {
+            "seconds": 35,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.9205122
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 35,
+            "nanos": 291666000
+          },
+          "end_time_offset": {
+            "seconds": 36,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.94442463
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 36,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 39,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.9205122
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 39,
+            "nanos": 208333000
+          },
+          "end_time_offset": {
+            "seconds": 40,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.87683374
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 40,
+            "nanos": 916666000
+          },
+          "end_time_offset": {
+            "seconds": 41,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.88296294
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 41,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 42,
+            "nanos": 500000000
+          }
+        },
+        "confidence": 0.80759901
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 42,
+            "nanos": 958333000
+          },
+          "end_time_offset": {
+            "seconds": 43,
+            "nanos": 416666000
+          }
+        },
+        "confidence": 0.38950476
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 46,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 47,
+            "nanos": 416666000
+          }
+        },
+        "confidence": 0.53436601
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 72,
+            "nanos": 41666000
+          },
+          "end_time_offset": {
+            "seconds": 74,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.60766309
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 74,
+            "nanos": 291666000
+          },
+          "end_time_offset": {
+            "seconds": 76,
+            "nanos": 500000000
+          }
+        },
+        "confidence": 0.34598082
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 76,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 79,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.9201774
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 79,
+            "nanos": 166666000
+          },
+          "end_time_offset": {
+            "seconds": 81,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.9201774
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 81,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 83,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.90578353
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 83,
+            "nanos": 291666000
+          },
+          "end_time_offset": {
+            "seconds": 84,
+            "nanos": 500000000
+          }
+        },
+        "confidence": 0.85898411
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 85,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 87,
+            "nanos": 583333000
+          }
+        },
+        "confidence": 0.80759901
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 87,
+            "nanos": 625000000
+          },
+          "end_time_offset": {
+            "seconds": 89,
+            "nanos": 41666000
+          }
+        },
+        "confidence": 0.60766309
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 89,
+            "nanos": 83333000
+          },
+          "end_time_offset": {
+            "seconds": 91
+          }
+        },
+        "confidence": 0.7885834
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 91,
+            "nanos": 41666000
+          },
+          "end_time_offset": {
+            "seconds": 92,
+            "nanos": 41666000
+          }
+        },
+        "confidence": 0.38950476
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 92,
+            "nanos": 83333000
+          },
+          "end_time_offset": {
+            "seconds": 93,
+            "nanos": 916666000
+          }
+        },
+        "confidence": 0.80759901
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 93,
+            "nanos": 958333000
+          },
+          "end_time_offset": {
+            "seconds": 95,
+            "nanos": 583333000
+          }
+        },
+        "confidence": 0.80759901
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 95,
+            "nanos": 625000000
+          },
+          "end_time_offset": {
+            "seconds": 98,
+            "nanos": 41666000
+          }
+        },
+        "confidence": 0.87683374
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 103,
+            "nanos": 500000000
+          },
+          "end_time_offset": {
+            "seconds": 104,
+            "nanos": 583333000
+          }
+        },
+        "confidence": 0.90562707
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 104,
+            "nanos": 625000000
+          },
+          "end_time_offset": {
+            "seconds": 105,
+            "nanos": 708333000
+          }
+        },
+        "confidence": 0.60766309
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 105,
+            "nanos": 750000000
+          },
+          "end_time_offset": {
+            "seconds": 106,
+            "nanos": 791666000
+          }
+        },
+        "confidence": 0.90578353
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 106,
+            "nanos": 833333000
+          },
+          "end_time_offset": {
+            "seconds": 110,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.84490609
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 110,
+            "nanos": 291666000
+          },
+          "end_time_offset": {
+            "seconds": 112,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.38950476
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 113,
+            "nanos": 125000000
+          },
+          "end_time_offset": {
+            "seconds": 120,
+            "nanos": 833333000
+          }
+        },
+        "confidence": 0.9201774
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 124,
+            "nanos": 875000000
+          },
+          "end_time_offset": {
+            "seconds": 128,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.9201774
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 128,
+            "nanos": 208333000
+          },
+          "end_time_offset": {
+            "seconds": 129,
+            "nanos": 83333000
+          }
+        },
+        "confidence": 0.38950476
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 151,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 153,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.9205122
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 171,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 172,
+            "nanos": 83333000
+          }
+        },
+        "confidence": 0.7885834
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 178,
+            "nanos": 875000000
+          },
+          "end_time_offset": {
+            "seconds": 179,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.38950476
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 185,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 191,
+            "nanos": 791666000
+          }
+        },
+        "confidence": 0.5758363
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 191,
+            "nanos": 833333000
+          },
+          "end_time_offset": {
+            "seconds": 192,
+            "nanos": 875000000
+          }
+        },
+        "confidence": 0.64150399
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 192,
+            "nanos": 916666000
+          },
+          "end_time_offset": {
+            "seconds": 199,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.90578353
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/017rtb",
+        "description": "panorama",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/05wkw",
+        "description": "photography",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 28,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 29,
+            "nanos": 625000000
+          }
+        },
+        "confidence": 0.30348855
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 29,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 30,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.33035839
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 81,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 83,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.30348855
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 124,
+            "nanos": 875000000
+          },
+          "end_time_offset": {
+            "seconds": 128,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.30348855
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/01w5c_",
+        "description": "aerial photography",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/05wkw",
+        "description": "photography",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 30,
+            "nanos": 250000000
+          },
+          "end_time_offset": {
+            "seconds": 31,
+            "nanos": 708333000
+          }
+        },
+        "confidence": 0.86156791
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 33,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 34,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.43124121
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 34,
+            "nanos": 166666000
+          },
+          "end_time_offset": {
+            "seconds": 35,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.53169
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 36,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 39,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.48866564
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 76,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 79,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.90028763
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 81,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 83,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.90735787
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 106,
+            "nanos": 833333000
+          },
+          "end_time_offset": {
+            "seconds": 110,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.90735787
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 113,
+            "nanos": 125000000
+          },
+          "end_time_offset": {
+            "seconds": 120,
+            "nanos": 833333000
+          }
+        },
+        "confidence": 0.77593422
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 124,
+            "nanos": 875000000
+          },
+          "end_time_offset": {
+            "seconds": 128,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.93455088
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/01g6gs",
+        "description": "black and white",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/012yh1",
+        "description": "style",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+          
+          },
+          "end_time_offset": {
+            "seconds": 2
+          }
+        },
+        "confidence": 0.88978171
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 199,
+            "nanos": 166666000
+          },
+          "end_time_offset": {
+            "seconds": 209,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.82669109
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/01ctsf",
+        "description": "atmosphere",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 72,
+            "nanos": 41666000
+          },
+          "end_time_offset": {
+            "seconds": 74,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.36734083
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 74,
+            "nanos": 291666000
+          },
+          "end_time_offset": {
+            "seconds": 76,
+            "nanos": 500000000
+          }
+        },
+        "confidence": 0.49464756
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 79,
+            "nanos": 166666000
+          },
+          "end_time_offset": {
+            "seconds": 81,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.47022024
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 89,
+            "nanos": 83333000
+          },
+          "end_time_offset": {
+            "seconds": 91
+          }
+        },
+        "confidence": 0.30915764
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 93,
+            "nanos": 958333000
+          },
+          "end_time_offset": {
+            "seconds": 95,
+            "nanos": 583333000
+          }
+        },
+        "confidence": 0.30915764
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/019sc6",
+        "description": "lighting",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 10,
+            "nanos": 500000000
+          },
+          "end_time_offset": {
+            "seconds": 11,
+            "nanos": 41666000
+          }
+        },
+        "confidence": 0.42345768
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 19,
+            "nanos": 250000000
+          },
+          "end_time_offset": {
+            "seconds": 20,
+            "nanos": 625000000
+          }
+        },
+        "confidence": 0.32772201
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 24,
+            "nanos": 625000000
+          },
+          "end_time_offset": {
+            "seconds": 25,
+            "nanos": 83333000
+          }
+        },
+        "confidence": 0.55178118
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 83,
+            "nanos": 291666000
+          },
+          "end_time_offset": {
+            "seconds": 84,
+            "nanos": 500000000
+          }
+        },
+        "confidence": 0.45854688
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 110,
+            "nanos": 291666000
+          },
+          "end_time_offset": {
+            "seconds": 112,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.45854688
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 112,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 113,
+            "nanos": 83333000
+          }
+        },
+        "confidence": 0.39448935
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 132,
+            "nanos": 916666000
+          },
+          "end_time_offset": {
+            "seconds": 144,
+            "nanos": 416666000
+          }
+        },
+        "confidence": 0.32067901
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 172,
+            "nanos": 125000000
+          },
+          "end_time_offset": {
+            "seconds": 174,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.39448935
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/01l7t2",
+        "description": "downtown",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/01n32",
+        "description": "city",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 7,
+            "nanos": 708333000
+          },
+          "end_time_offset": {
+            "seconds": 8,
+            "nanos": 791666000
+          }
+        },
+        "confidence": 0.4511089
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 18,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 19,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.92599398
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 21,
+            "nanos": 791666000
+          },
+          "end_time_offset": {
+            "seconds": 22,
+            "nanos": 500000000
+          }
+        },
+        "confidence": 0.88981634
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 28,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 29,
+            "nanos": 625000000
+          }
+        },
+        "confidence": 0.85323346
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 29,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 30,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.90624005
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 30,
+            "nanos": 250000000
+          },
+          "end_time_offset": {
+            "seconds": 31,
+            "nanos": 708333000
+          }
+        },
+        "confidence": 0.89393353
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 31,
+            "nanos": 750000000
+          },
+          "end_time_offset": {
+            "seconds": 33
+          }
+        },
+        "confidence": 0.4511089
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 33,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 34,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.64321321
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 34,
+            "nanos": 166666000
+          },
+          "end_time_offset": {
+            "seconds": 35,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.76491672
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 35,
+            "nanos": 291666000
+          },
+          "end_time_offset": {
+            "seconds": 36,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.90622038
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 36,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 39,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.68282259
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 39,
+            "nanos": 208333000
+          },
+          "end_time_offset": {
+            "seconds": 40,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.88292909
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 40,
+            "nanos": 916666000
+          },
+          "end_time_offset": {
+            "seconds": 41,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.88981634
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 76,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 79,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.64321321
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 81,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 83,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.88981634
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 113,
+            "nanos": 125000000
+          },
+          "end_time_offset": {
+            "seconds": 120,
+            "nanos": 833333000
+          }
+        },
+        "confidence": 0.49515462
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 124,
+            "nanos": 875000000
+          },
+          "end_time_offset": {
+            "seconds": 128,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.49515462
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 151,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 153,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.35874355
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/01c6yl",
+        "description": "spire",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 6,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 7,
+            "nanos": 666666000
+          }
+        },
+        "confidence": 0.5646677
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 103,
+            "nanos": 500000000
+          },
+          "end_time_offset": {
+            "seconds": 104,
+            "nanos": 583333000
+          }
+        },
+        "confidence": 0.33446565
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 104,
+            "nanos": 625000000
+          },
+          "end_time_offset": {
+            "seconds": 105,
+            "nanos": 708333000
+          }
+        },
+        "confidence": 0.5646677
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 105,
+            "nanos": 750000000
+          },
+          "end_time_offset": {
+            "seconds": 106,
+            "nanos": 791666000
+          }
+        },
+        "confidence": 0.51650047
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 191,
+            "nanos": 833333000
+          },
+          "end_time_offset": {
+            "seconds": 192,
+            "nanos": 875000000
+          }
+        },
+        "confidence": 0.52736425
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 192,
+            "nanos": 916666000
+          },
+          "end_time_offset": {
+            "seconds": 199,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.33829379
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/0pgl9",
+        "description": "tourist attraction",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/078x4m",
+        "description": "location",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 7,
+            "nanos": 708333000
+          },
+          "end_time_offset": {
+            "seconds": 8,
+            "nanos": 791666000
+          }
+        },
+        "confidence": 0.79493165
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 25,
+            "nanos": 125000000
+          },
+          "end_time_offset": {
+            "seconds": 26,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.37815595
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 26,
+            "nanos": 291666000
+          },
+          "end_time_offset": {
+            "seconds": 27,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.30665323
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 35,
+            "nanos": 291666000
+          },
+          "end_time_offset": {
+            "seconds": 36,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.31241721
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 104,
+            "nanos": 625000000
+          },
+          "end_time_offset": {
+            "seconds": 105,
+            "nanos": 708333000
+          }
+        },
+        "confidence": 0.49144611
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 151,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 153,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.69382292
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 153,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 166,
+            "nanos": 833333000
+          }
+        },
+        "confidence": 0.37815595
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 166,
+            "nanos": 875000000
+          },
+          "end_time_offset": {
+            "seconds": 169,
+            "nanos": 583333000
+          }
+        },
+        "confidence": 0.37815595
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 175,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 176,
+            "nanos": 708333000
+          }
+        },
+        "confidence": 0.31241721
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 181,
+            "nanos": 458333000
+          },
+          "end_time_offset": {
+            "seconds": 182,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.37815595
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/0j_s4",
+        "description": "metropolitan area",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/01n32",
+        "description": "city",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 7,
+            "nanos": 708333000
+          },
+          "end_time_offset": {
+            "seconds": 8,
+            "nanos": 791666000
+          }
+        },
+        "confidence": 0.6217581
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 18,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 19,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.8036744
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 21,
+            "nanos": 791666000
+          },
+          "end_time_offset": {
+            "seconds": 22,
+            "nanos": 500000000
+          }
+        },
+        "confidence": 0.79187012
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 28,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 29,
+            "nanos": 625000000
+          }
+        },
+        "confidence": 0.79187012
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 29,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 30,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.81766301
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 30,
+            "nanos": 250000000
+          },
+          "end_time_offset": {
+            "seconds": 31,
+            "nanos": 708333000
+          }
+        },
+        "confidence": 0.8036744
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 33,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 34,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.58877206
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 34,
+            "nanos": 166666000
+          },
+          "end_time_offset": {
+            "seconds": 35,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.7428506
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 35,
+            "nanos": 291666000
+          },
+          "end_time_offset": {
+            "seconds": 36,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.79572248
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 36,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 39,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.71762389
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 39,
+            "nanos": 208333000
+          },
+          "end_time_offset": {
+            "seconds": 40,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.71762389
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 40,
+            "nanos": 916666000
+          },
+          "end_time_offset": {
+            "seconds": 41,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.79572248
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 76,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 79,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.74753594
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 81,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 83,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.81766301
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 106,
+            "nanos": 833333000
+          },
+          "end_time_offset": {
+            "seconds": 110,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.45547965
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 113,
+            "nanos": 125000000
+          },
+          "end_time_offset": {
+            "seconds": 120,
+            "nanos": 833333000
+          }
+        },
+        "confidence": 0.71762389
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 124,
+            "nanos": 875000000
+          },
+          "end_time_offset": {
+            "seconds": 128,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.71163875
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 151,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 153,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.6217581
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/0204fg",
+        "description": "skyline",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/01n32",
+        "description": "city",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 7,
+            "nanos": 708333000
+          },
+          "end_time_offset": {
+            "seconds": 8,
+            "nanos": 791666000
+          }
+        },
+        "confidence": 0.93240219
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 18,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 19,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.96419752
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 21,
+            "nanos": 791666000
+          },
+          "end_time_offset": {
+            "seconds": 22,
+            "nanos": 500000000
+          }
+        },
+        "confidence": 0.95444107
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 28,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 29,
+            "nanos": 625000000
+          }
+        },
+        "confidence": 0.95444107
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 29,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 30,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.95444107
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 30,
+            "nanos": 250000000
+          },
+          "end_time_offset": {
+            "seconds": 31,
+            "nanos": 708333000
+          }
+        },
+        "confidence": 0.95444107
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 31,
+            "nanos": 750000000
+          },
+          "end_time_offset": {
+            "seconds": 33
+          }
+        },
+        "confidence": 0.70319563
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 33,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 34,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.80505508
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 34,
+            "nanos": 166666000
+          },
+          "end_time_offset": {
+            "seconds": 35,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.97530818
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 35,
+            "nanos": 291666000
+          },
+          "end_time_offset": {
+            "seconds": 36,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.95444107
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 36,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 39,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.97530818
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 39,
+            "nanos": 208333000
+          },
+          "end_time_offset": {
+            "seconds": 40,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.95427686
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 40,
+            "nanos": 916666000
+          },
+          "end_time_offset": {
+            "seconds": 41,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.95444107
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 41,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 42,
+            "nanos": 500000000
+          }
+        },
+        "confidence": 0.80505508
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 72,
+            "nanos": 41666000
+          },
+          "end_time_offset": {
+            "seconds": 74,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.52133352
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 76,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 79,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.97839952
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 79,
+            "nanos": 166666000
+          },
+          "end_time_offset": {
+            "seconds": 81,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.95444107
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 81,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 83,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.95517248
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 89,
+            "nanos": 83333000
+          },
+          "end_time_offset": {
+            "seconds": 91
+          }
+        },
+        "confidence": 0.91331238
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 92,
+            "nanos": 83333000
+          },
+          "end_time_offset": {
+            "seconds": 93,
+            "nanos": 916666000
+          }
+        },
+        "confidence": 0.84204286
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 93,
+            "nanos": 958333000
+          },
+          "end_time_offset": {
+            "seconds": 95,
+            "nanos": 583333000
+          }
+        },
+        "confidence": 0.84204286
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 106,
+            "nanos": 833333000
+          },
+          "end_time_offset": {
+            "seconds": 110,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.84204286
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 113,
+            "nanos": 125000000
+          },
+          "end_time_offset": {
+            "seconds": 120,
+            "nanos": 833333000
+          }
+        },
+        "confidence": 0.95444107
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 124,
+            "nanos": 875000000
+          },
+          "end_time_offset": {
+            "seconds": 128,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.94429165
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 151,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 153,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.93240219
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/056mk",
+        "description": "metropolis",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/01n32",
+        "description": "city",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 7,
+            "nanos": 708333000
+          },
+          "end_time_offset": {
+            "seconds": 8,
+            "nanos": 791666000
+          }
+        },
+        "confidence": 0.58235854
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 18,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 19,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.76247239
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 21,
+            "nanos": 791666000
+          },
+          "end_time_offset": {
+            "seconds": 22,
+            "nanos": 500000000
+          }
+        },
+        "confidence": 0.68801302
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 28,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 29,
+            "nanos": 625000000
+          }
+        },
+        "confidence": 0.7575568
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 29,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 30,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.79465324
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 30,
+            "nanos": 250000000
+          },
+          "end_time_offset": {
+            "seconds": 31,
+            "nanos": 708333000
+          }
+        },
+        "confidence": 0.75995159
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 31,
+            "nanos": 750000000
+          },
+          "end_time_offset": {
+            "seconds": 33
+          }
+        },
+        "confidence": 0.46621707
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 33,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 34,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.50626725
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 34,
+            "nanos": 166666000
+          },
+          "end_time_offset": {
+            "seconds": 35,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.58235854
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 35,
+            "nanos": 291666000
+          },
+          "end_time_offset": {
+            "seconds": 36,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.78007597
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 36,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 39,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.58235854
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 39,
+            "nanos": 208333000
+          },
+          "end_time_offset": {
+            "seconds": 40,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.54760277
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 40,
+            "nanos": 916666000
+          },
+          "end_time_offset": {
+            "seconds": 41,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.75602019
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 76,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 79,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.68801302
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 79,
+            "nanos": 166666000
+          },
+          "end_time_offset": {
+            "seconds": 81,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.46621707
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 81,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 83,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.76247239
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 106,
+            "nanos": 833333000
+          },
+          "end_time_offset": {
+            "seconds": 110,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.50436461
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 113,
+            "nanos": 125000000
+          },
+          "end_time_offset": {
+            "seconds": 120,
+            "nanos": 833333000
+          }
+        },
+        "confidence": 0.54760277
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 124,
+            "nanos": 875000000
+          },
+          "end_time_offset": {
+            "seconds": 128,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.58235854
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 151,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 153,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.58235854
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/01b3l7",
+        "description": "dusk",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 18,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 19,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.70111781
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 21,
+            "nanos": 791666000
+          },
+          "end_time_offset": {
+            "seconds": 22,
+            "nanos": 500000000
+          }
+        },
+        "confidence": 0.41059935
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 28,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 29,
+            "nanos": 625000000
+          }
+        },
+        "confidence": 0.40446535
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 29,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 30,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.30375046
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 34,
+            "nanos": 166666000
+          },
+          "end_time_offset": {
+            "seconds": 35,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.36313868
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 35,
+            "nanos": 291666000
+          },
+          "end_time_offset": {
+            "seconds": 36,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.40067092
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 36,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 39,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.30340976
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 39,
+            "nanos": 208333000
+          },
+          "end_time_offset": {
+            "seconds": 40,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.31916267
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 79,
+            "nanos": 166666000
+          },
+          "end_time_offset": {
+            "seconds": 81,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.30334836
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 81,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 83,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.39884695
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/05hlxm",
+        "description": "time-lapse photography",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 18,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 19,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.32439855
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/017bm6",
+        "description": "lens flare",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 3
+          },
+          "end_time_offset": {
+            "seconds": 5,
+            "nanos": 83333000
+          }
+        },
+        "confidence": 0.39364269
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/04k84",
+        "description": "light",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 3
+          },
+          "end_time_offset": {
+            "seconds": 5,
+            "nanos": 83333000
+          }
+        },
+        "confidence": 0.61752808
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 8,
+            "nanos": 833333000
+          },
+          "end_time_offset": {
+            "seconds": 9,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.34815136
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 9,
+            "nanos": 958333000
+          },
+          "end_time_offset": {
+            "seconds": 10,
+            "nanos": 458333000
+          }
+        },
+        "confidence": 0.37859252
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 10,
+            "nanos": 500000000
+          },
+          "end_time_offset": {
+            "seconds": 11,
+            "nanos": 41666000
+          }
+        },
+        "confidence": 0.68895417
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 11,
+            "nanos": 83333000
+          },
+          "end_time_offset": {
+            "seconds": 13,
+            "nanos": 708333000
+          }
+        },
+        "confidence": 0.37053204
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 24,
+            "nanos": 625000000
+          },
+          "end_time_offset": {
+            "seconds": 25,
+            "nanos": 83333000
+          }
+        },
+        "confidence": 0.70764244
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 42,
+            "nanos": 958333000
+          },
+          "end_time_offset": {
+            "seconds": 43,
+            "nanos": 416666000
+          }
+        },
+        "confidence": 0.3393825
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 46,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 47,
+            "nanos": 416666000
+          }
+        },
+        "confidence": 0.34235853
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 83,
+            "nanos": 291666000
+          },
+          "end_time_offset": {
+            "seconds": 84,
+            "nanos": 500000000
+          }
+        },
+        "confidence": 0.37859252
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 85,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 87,
+            "nanos": 583333000
+          }
+        },
+        "confidence": 0.43944976
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 87,
+            "nanos": 625000000
+          },
+          "end_time_offset": {
+            "seconds": 89,
+            "nanos": 41666000
+          }
+        },
+        "confidence": 0.5043422
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 95,
+            "nanos": 625000000
+          },
+          "end_time_offset": {
+            "seconds": 98,
+            "nanos": 41666000
+          }
+        },
+        "confidence": 0.34235853
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 98,
+            "nanos": 83333000
+          },
+          "end_time_offset": {
+            "seconds": 100,
+            "nanos": 83333000
+          }
+        },
+        "confidence": 0.45993003
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 100,
+            "nanos": 125000000
+          },
+          "end_time_offset": {
+            "seconds": 103,
+            "nanos": 458333000
+          }
+        },
+        "confidence": 0.34815136
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 110,
+            "nanos": 291666000
+          },
+          "end_time_offset": {
+            "seconds": 112,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.5043422
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 112,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 113,
+            "nanos": 83333000
+          }
+        },
+        "confidence": 0.6153301
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 120,
+            "nanos": 875000000
+          },
+          "end_time_offset": {
+            "seconds": 124,
+            "nanos": 833333000
+          }
+        },
+        "confidence": 0.5415296
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 132,
+            "nanos": 916666000
+          },
+          "end_time_offset": {
+            "seconds": 144,
+            "nanos": 416666000
+          }
+        },
+        "confidence": 0.33254918
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 172,
+            "nanos": 125000000
+          },
+          "end_time_offset": {
+            "seconds": 174,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.6398645
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 175,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 176,
+            "nanos": 708333000
+          }
+        },
+        "confidence": 0.3393825
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/05_5t0l",
+        "description": "landmark",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/043rvww",
+        "description": "geographical feature",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 6,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 7,
+            "nanos": 666666000
+          }
+        },
+        "confidence": 0.70591921
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 7,
+            "nanos": 708333000
+          },
+          "end_time_offset": {
+            "seconds": 8,
+            "nanos": 791666000
+          }
+        },
+        "confidence": 0.75083226
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 25,
+            "nanos": 125000000
+          },
+          "end_time_offset": {
+            "seconds": 26,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.66648304
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 35,
+            "nanos": 291666000
+          },
+          "end_time_offset": {
+            "seconds": 36,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.44171709
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 104,
+            "nanos": 625000000
+          },
+          "end_time_offset": {
+            "seconds": 105,
+            "nanos": 708333000
+          }
+        },
+        "confidence": 0.70591921
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 105,
+            "nanos": 750000000
+          },
+          "end_time_offset": {
+            "seconds": 106,
+            "nanos": 791666000
+          }
+        },
+        "confidence": 0.46988538
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 151,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 153,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.70591921
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 153,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 166,
+            "nanos": 833333000
+          }
+        },
+        "confidence": 0.30815041
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 185,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 191,
+            "nanos": 791666000
+          }
+        },
+        "confidence": 0.52055764
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 191,
+            "nanos": 833333000
+          },
+          "end_time_offset": {
+            "seconds": 192,
+            "nanos": 875000000
+          }
+        },
+        "confidence": 0.70591921
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 192,
+            "nanos": 916666000
+          },
+          "end_time_offset": {
+            "seconds": 199,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.44171709
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/074ft",
+        "description": "song",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/04rlf",
+        "description": "music",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 7,
+            "nanos": 708333000
+          },
+          "end_time_offset": {
+            "seconds": 8,
+            "nanos": 791666000
+          }
+        },
+        "confidence": 0.34236115
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 84,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 85,
+            "nanos": 500000000
+          }
+        },
+        "confidence": 0.34236115
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 91,
+            "nanos": 41666000
+          },
+          "end_time_offset": {
+            "seconds": 92,
+            "nanos": 41666000
+          }
+        },
+        "confidence": 0.31917372
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/01mwkf",
+        "description": "monochrome",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/012yh1",
+        "description": "style",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+          
+          },
+          "end_time_offset": {
+            "seconds": 2
+          }
+        },
+        "confidence": 0.42953545
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 199,
+            "nanos": 166666000
+          },
+          "end_time_offset": {
+            "seconds": 209,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.40815118
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/04mx32",
+        "description": "evening",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 18,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 19,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.6529423
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 21,
+            "nanos": 791666000
+          },
+          "end_time_offset": {
+            "seconds": 22,
+            "nanos": 500000000
+          }
+        },
+        "confidence": 0.34612209
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 28,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 29,
+            "nanos": 625000000
+          }
+        },
+        "confidence": 0.34612209
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 35,
+            "nanos": 291666000
+          },
+          "end_time_offset": {
+            "seconds": 36,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.34612209
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 39,
+            "nanos": 208333000
+          },
+          "end_time_offset": {
+            "seconds": 40,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.51552749
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/02l215",
+        "description": "reflection",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 21,
+            "nanos": 791666000
+          },
+          "end_time_offset": {
+            "seconds": 22,
+            "nanos": 500000000
+          }
+        },
+        "confidence": 0.64958209
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 30,
+            "nanos": 250000000
+          },
+          "end_time_offset": {
+            "seconds": 31,
+            "nanos": 708333000
+          }
+        },
+        "confidence": 0.42130494
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 35,
+            "nanos": 291666000
+          },
+          "end_time_offset": {
+            "seconds": 36,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.6209504
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 39,
+            "nanos": 208333000
+          },
+          "end_time_offset": {
+            "seconds": 40,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.34344473
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 40,
+            "nanos": 916666000
+          },
+          "end_time_offset": {
+            "seconds": 41,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.41070464
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 41,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 42,
+            "nanos": 500000000
+          }
+        },
+        "confidence": 0.43249899
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/016br2",
+        "description": "dome",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/0cgh4",
+        "description": "building",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 183,
+            "nanos": 333333000
+          },
+          "end_time_offset": {
+            "seconds": 185,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.52076536
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/03gq5hm",
+        "description": "font",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/01mf0",
+        "description": "software",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+          
+          },
+          "end_time_offset": {
+            "seconds": 2
+          }
+        },
+        "confidence": 0.43634441
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/01fdzj",
+        "description": "tower",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 6,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 7,
+            "nanos": 666666000
+          }
+        },
+        "confidence": 0.85334182
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 7,
+            "nanos": 708333000
+          },
+          "end_time_offset": {
+            "seconds": 8,
+            "nanos": 791666000
+          }
+        },
+        "confidence": 0.97168499
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 25,
+            "nanos": 125000000
+          },
+          "end_time_offset": {
+            "seconds": 26,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.84130937
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 103,
+            "nanos": 500000000
+          },
+          "end_time_offset": {
+            "seconds": 104,
+            "nanos": 583333000
+          }
+        },
+        "confidence": 0.34162745
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 104,
+            "nanos": 625000000
+          },
+          "end_time_offset": {
+            "seconds": 105,
+            "nanos": 708333000
+          }
+        },
+        "confidence": 0.85334182
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 151,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 153,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.97168499
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 185,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 191,
+            "nanos": 791666000
+          }
+        },
+        "confidence": 0.41518915
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 191,
+            "nanos": 833333000
+          },
+          "end_time_offset": {
+            "seconds": 192,
+            "nanos": 875000000
+          }
+        },
+        "confidence": 0.87623137
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 192,
+            "nanos": 916666000
+          },
+          "end_time_offset": {
+            "seconds": 199,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.32545164
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/01n32",
+        "description": "city",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/043rvww",
+        "description": "geographical feature",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 7,
+            "nanos": 708333000
+          },
+          "end_time_offset": {
+            "seconds": 8,
+            "nanos": 791666000
+          }
+        },
+        "confidence": 0.78954369
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 18,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 19,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.98724854
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 21,
+            "nanos": 791666000
+          },
+          "end_time_offset": {
+            "seconds": 22,
+            "nanos": 500000000
+          }
+        },
+        "confidence": 0.98278385
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 28,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 29,
+            "nanos": 625000000
+          }
+        },
+        "confidence": 0.98278385
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 29,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 30,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.98918664
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 30,
+            "nanos": 250000000
+          },
+          "end_time_offset": {
+            "seconds": 31,
+            "nanos": 708333000
+          }
+        },
+        "confidence": 0.99451256
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 31,
+            "nanos": 750000000
+          },
+          "end_time_offset": {
+            "seconds": 33
+          }
+        },
+        "confidence": 0.90049547
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 33,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 34,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.90753824
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 34,
+            "nanos": 166666000
+          },
+          "end_time_offset": {
+            "seconds": 35,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.978194
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 35,
+            "nanos": 291666000
+          },
+          "end_time_offset": {
+            "seconds": 36,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.98278385
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 36,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 39,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.978194
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 39,
+            "nanos": 208333000
+          },
+          "end_time_offset": {
+            "seconds": 40,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.93819523
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 40,
+            "nanos": 916666000
+          },
+          "end_time_offset": {
+            "seconds": 41,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.9811995
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 41,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 42,
+            "nanos": 500000000
+          }
+        },
+        "confidence": 0.50041211
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 76,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 79,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.978194
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 79,
+            "nanos": 166666000
+          },
+          "end_time_offset": {
+            "seconds": 81,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.8492164
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 81,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 83,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.98918664
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 83,
+            "nanos": 291666000
+          },
+          "end_time_offset": {
+            "seconds": 84,
+            "nanos": 500000000
+          }
+        },
+        "confidence": 0.35780177
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 89,
+            "nanos": 83333000
+          },
+          "end_time_offset": {
+            "seconds": 91
+          }
+        },
+        "confidence": 0.50041211
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 92,
+            "nanos": 83333000
+          },
+          "end_time_offset": {
+            "seconds": 93,
+            "nanos": 916666000
+          }
+        },
+        "confidence": 0.8032161
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 93,
+            "nanos": 958333000
+          },
+          "end_time_offset": {
+            "seconds": 95,
+            "nanos": 583333000
+          }
+        },
+        "confidence": 0.46565303
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 106,
+            "nanos": 833333000
+          },
+          "end_time_offset": {
+            "seconds": 110,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.9501394
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 113,
+            "nanos": 125000000
+          },
+          "end_time_offset": {
+            "seconds": 120,
+            "nanos": 833333000
+          }
+        },
+        "confidence": 0.9058885
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 124,
+            "nanos": 875000000
+          },
+          "end_time_offset": {
+            "seconds": 128,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.978194
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 151,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 153,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.78954369
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/034z7h",
+        "description": "cityscape",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/01n32",
+        "description": "city",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 7,
+            "nanos": 708333000
+          },
+          "end_time_offset": {
+            "seconds": 8,
+            "nanos": 791666000
+          }
+        },
+        "confidence": 0.94778985
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 18,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 19,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.97083306
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 21,
+            "nanos": 791666000
+          },
+          "end_time_offset": {
+            "seconds": 22,
+            "nanos": 500000000
+          }
+        },
+        "confidence": 0.97083306
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 28,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 29,
+            "nanos": 625000000
+          }
+        },
+        "confidence": 0.96929193
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 29,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 30,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.97083306
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 30,
+            "nanos": 250000000
+          },
+          "end_time_offset": {
+            "seconds": 31,
+            "nanos": 708333000
+          }
+        },
+        "confidence": 0.97083306
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 31,
+            "nanos": 750000000
+          },
+          "end_time_offset": {
+            "seconds": 33
+          }
+        },
+        "confidence": 0.93138635
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 33,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 34,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.94258207
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 34,
+            "nanos": 166666000
+          },
+          "end_time_offset": {
+            "seconds": 35,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.96486092
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 35,
+            "nanos": 291666000
+          },
+          "end_time_offset": {
+            "seconds": 36,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.97083306
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 36,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 39,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.96486092
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 39,
+            "nanos": 208333000
+          },
+          "end_time_offset": {
+            "seconds": 40,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.9483251
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 40,
+            "nanos": 916666000
+          },
+          "end_time_offset": {
+            "seconds": 41,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.97083306
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 41,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 42,
+            "nanos": 500000000
+          }
+        },
+        "confidence": 0.93122846
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 51,
+            "nanos": 83333000
+          },
+          "end_time_offset": {
+            "seconds": 72
+          }
+        },
+        "confidence": 0.56572866
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 72,
+            "nanos": 41666000
+          },
+          "end_time_offset": {
+            "seconds": 74,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.54073882
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 76,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 79,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.96486092
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 79,
+            "nanos": 166666000
+          },
+          "end_time_offset": {
+            "seconds": 81,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.9483251
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 81,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 83,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.9681468
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 83,
+            "nanos": 291666000
+          },
+          "end_time_offset": {
+            "seconds": 84,
+            "nanos": 500000000
+          }
+        },
+        "confidence": 0.8801555
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 89,
+            "nanos": 83333000
+          },
+          "end_time_offset": {
+            "seconds": 91
+          }
+        },
+        "confidence": 0.92580003
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 91,
+            "nanos": 41666000
+          },
+          "end_time_offset": {
+            "seconds": 92,
+            "nanos": 41666000
+          }
+        },
+        "confidence": 0.43078259
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 92,
+            "nanos": 83333000
+          },
+          "end_time_offset": {
+            "seconds": 93,
+            "nanos": 916666000
+          }
+        },
+        "confidence": 0.94086969
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 93,
+            "nanos": 958333000
+          },
+          "end_time_offset": {
+            "seconds": 95,
+            "nanos": 583333000
+          }
+        },
+        "confidence": 0.89287788
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 106,
+            "nanos": 833333000
+          },
+          "end_time_offset": {
+            "seconds": 110,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.9483251
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 113,
+            "nanos": 125000000
+          },
+          "end_time_offset": {
+            "seconds": 120,
+            "nanos": 833333000
+          }
+        },
+        "confidence": 0.9483251
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 124,
+            "nanos": 875000000
+          },
+          "end_time_offset": {
+            "seconds": 128,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.94980419
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 151,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 153,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.9474256
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/079cl",
+        "description": "skyscraper",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/0cgh4",
+        "description": "building",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 7,
+            "nanos": 708333000
+          },
+          "end_time_offset": {
+            "seconds": 8,
+            "nanos": 791666000
+          }
+        },
+        "confidence": 0.55794865
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 18,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 19,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.86237526
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 28,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 29,
+            "nanos": 625000000
+          }
+        },
+        "confidence": 0.72024375
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 29,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 30,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.90774846
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 30,
+            "nanos": 250000000
+          },
+          "end_time_offset": {
+            "seconds": 31,
+            "nanos": 708333000
+          }
+        },
+        "confidence": 0.446646
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 35,
+            "nanos": 291666000
+          },
+          "end_time_offset": {
+            "seconds": 36,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.7976796
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 39,
+            "nanos": 208333000
+          },
+          "end_time_offset": {
+            "seconds": 40,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.67659366
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 40,
+            "nanos": 916666000
+          },
+          "end_time_offset": {
+            "seconds": 41,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.7976796
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 76,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 79,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.79470241
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 81,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 83,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.90690291
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 151,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 153,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.49735823
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/08g_yr",
+        "description": "temple",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 104,
+            "nanos": 625000000
+          },
+          "end_time_offset": {
+            "seconds": 105,
+            "nanos": 708333000
+          }
+        },
+        "confidence": 0.32729924
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/02j81",
+        "description": "eiffel tower",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 7,
+            "nanos": 708333000
+          },
+          "end_time_offset": {
+            "seconds": 8,
+            "nanos": 791666000
+          }
+        },
+        "confidence": 0.98091626
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 151,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 153,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.97508699
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 153,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 166,
+            "nanos": 833333000
+          }
+        },
+        "confidence": 0.60984999
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/0d1n2",
+        "description": "horizon",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/043rvww",
+        "description": "geographical feature",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 18,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 19,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.41217259
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 28,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 29,
+            "nanos": 625000000
+          }
+        },
+        "confidence": 0.5367201
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 81,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 83,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.43314371
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/021sdg",
+        "description": "graphics",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/0dgsmq8",
+        "description": "artwork",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+          
+          },
+          "end_time_offset": {
+            "seconds": 2
+          }
+        },
+        "confidence": 0.442509
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/025rs2z",
+        "description": "gold",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/04t7l",
+        "description": "metal",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 176,
+            "nanos": 750000000
+          },
+          "end_time_offset": {
+            "seconds": 178,
+            "nanos": 833333000
+          }
+        },
+        "confidence": 0.3458012
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/039jbq",
+        "description": "urban area",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/01n32",
+        "description": "city",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 7,
+            "nanos": 708333000
+          },
+          "end_time_offset": {
+            "seconds": 8,
+            "nanos": 791666000
+          }
+        },
+        "confidence": 0.43658268
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 8,
+            "nanos": 833333000
+          },
+          "end_time_offset": {
+            "seconds": 9,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.35530302
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 18,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 19,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.8677699
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 21,
+            "nanos": 791666000
+          },
+          "end_time_offset": {
+            "seconds": 22,
+            "nanos": 500000000
+          }
+        },
+        "confidence": 0.79701769
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 28,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 29,
+            "nanos": 625000000
+          }
+        },
+        "confidence": 0.79656512
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 29,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 30,
+            "nanos": 208333000
+          }
+        },
+        "confidence": 0.86197299
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 30,
+            "nanos": 250000000
+          },
+          "end_time_offset": {
+            "seconds": 31,
+            "nanos": 708333000
+          }
+        },
+        "confidence": 0.81659544
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 31,
+            "nanos": 750000000
+          },
+          "end_time_offset": {
+            "seconds": 33
+          }
+        },
+        "confidence": 0.69409192
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 33,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 34,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.69854915
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 34,
+            "nanos": 166666000
+          },
+          "end_time_offset": {
+            "seconds": 35,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.79656512
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 35,
+            "nanos": 291666000
+          },
+          "end_time_offset": {
+            "seconds": 36,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.81659544
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 36,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 39,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.79362345
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 39,
+            "nanos": 208333000
+          },
+          "end_time_offset": {
+            "seconds": 40,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.79656512
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 40,
+            "nanos": 916666000
+          },
+          "end_time_offset": {
+            "seconds": 41,
+            "nanos": 375000000
+          }
+        },
+        "confidence": 0.81659544
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 41,
+            "nanos": 416666000
+          },
+          "end_time_offset": {
+            "seconds": 42,
+            "nanos": 500000000
+          }
+        },
+        "confidence": 0.4695195
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 76,
+            "nanos": 541666000
+          },
+          "end_time_offset": {
+            "seconds": 79,
+            "nanos": 125000000
+          }
+        },
+        "confidence": 0.81659544
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 79,
+            "nanos": 166666000
+          },
+          "end_time_offset": {
+            "seconds": 81,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.35530302
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 81,
+            "nanos": 583333000
+          },
+          "end_time_offset": {
+            "seconds": 83,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.86197299
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 92,
+            "nanos": 83333000
+          },
+          "end_time_offset": {
+            "seconds": 93,
+            "nanos": 916666000
+          }
+        },
+        "confidence": 0.35530302
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 106,
+            "nanos": 833333000
+          },
+          "end_time_offset": {
+            "seconds": 110,
+            "nanos": 250000000
+          }
+        },
+        "confidence": 0.68897384
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 113,
+            "nanos": 125000000
+          },
+          "end_time_offset": {
+            "seconds": 120,
+            "nanos": 833333000
+          }
+        },
+        "confidence": 0.69761407
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 124,
+            "nanos": 875000000
+          },
+          "end_time_offset": {
+            "seconds": 128,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.74071038
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 151,
+            "nanos": 666666000
+          },
+          "end_time_offset": {
+            "seconds": 153,
+            "nanos": 541666000
+          }
+        },
+        "confidence": 0.34438816
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/019sc",
+        "description": "black",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+          
+          },
+          "end_time_offset": {
+            "seconds": 2
+          }
+        },
+        "confidence": 0.72449809
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 199,
+            "nanos": 166666000
+          },
+          "end_time_offset": {
+            "seconds": 209,
+            "nanos": 166666000
+          }
+        },
+        "confidence": 0.67302364
+      } ]
+    } ]
+  } ]
+}

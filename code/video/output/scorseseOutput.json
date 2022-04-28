@@ -1,0 +1,1659 @@
+{
+  "annotation_results": [ {
+    "input_uri": "/sentiment-classification-test/video/scorsese.mp4",
+    "segment": {
+      "start_time_offset": {
+      
+      },
+      "end_time_offset": {
+        "seconds": 140,
+        "nanos": 874066000
+      }
+    },
+    "segment_label_annotations": [ {
+      "entity": {
+        "entity_id": "/m/07yv9",
+        "description": "vehicle",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+          
+          },
+          "end_time_offset": {
+            "seconds": 140,
+            "nanos": 874066000
+          }
+        },
+        "confidence": 0.97289461
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/012f08",
+        "description": "motor vehicle",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/07yv9",
+        "description": "vehicle",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+          
+          },
+          "end_time_offset": {
+            "seconds": 140,
+            "nanos": 874066000
+          }
+        },
+        "confidence": 0.5781641
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/01prls",
+        "description": "land vehicle",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/07yv9",
+        "description": "vehicle",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+          
+          },
+          "end_time_offset": {
+            "seconds": 140,
+            "nanos": 874066000
+          }
+        },
+        "confidence": 0.36413771
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/0k4j",
+        "description": "car",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/07yv9",
+        "description": "vehicle",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+          
+          },
+          "end_time_offset": {
+            "seconds": 140,
+            "nanos": 874066000
+          }
+        },
+        "confidence": 0.95759934
+      } ]
+    } ],
+    "shot_label_annotations": [ {
+      "entity": {
+        "entity_id": "/m/01r4c6",
+        "description": "lowrider",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 34,
+            "nanos": 601233000
+          },
+          "end_time_offset": {
+            "seconds": 40,
+            "nanos": 273566000
+          }
+        },
+        "confidence": 0.67905372
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/071t0",
+        "description": "shooting sport",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/071rm",
+        "description": "shooting",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 119,
+            "nanos": 152366000
+          },
+          "end_time_offset": {
+            "seconds": 123,
+            "nanos": 990533000
+          }
+        },
+        "confidence": 0.62530226
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 127,
+            "nanos": 460666000
+          },
+          "end_time_offset": {
+            "seconds": 131,
+            "nanos": 965166000
+          }
+        },
+        "confidence": 0.31563133
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/027n3_",
+        "description": "eyebrow",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 124,
+            "nanos": 23900000
+          },
+          "end_time_offset": {
+            "seconds": 127,
+            "nanos": 427300000
+          }
+        },
+        "confidence": 0.44767833
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/03q69",
+        "description": "hair",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 124,
+            "nanos": 23900000
+          },
+          "end_time_offset": {
+            "seconds": 127,
+            "nanos": 427300000
+          }
+        },
+        "confidence": 0.3871744
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/01lrnl",
+        "description": "windshield",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/039jq",
+        "description": "glass",
+        "language_code": "en-US"
+      }, {
+        "entity_id": "/m/0d4v4",
+        "description": "window",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 18,
+            "nanos": 284933000
+          },
+          "end_time_offset": {
+            "seconds": 34,
+            "nanos": 567866000
+          }
+        },
+        "confidence": 0.35255516
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 54,
+            "nanos": 354300000
+          },
+          "end_time_offset": {
+            "seconds": 57,
+            "nanos": 624233000
+          }
+        },
+        "confidence": 0.33434615
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/06fk8",
+        "description": "revolver",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/032rk",
+        "description": "gun",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 110,
+            "nanos": 477033000
+          },
+          "end_time_offset": {
+            "seconds": 114,
+            "nanos": 80633000
+          }
+        },
+        "confidence": 0.38386071
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 119,
+            "nanos": 152366000
+          },
+          "end_time_offset": {
+            "seconds": 123,
+            "nanos": 990533000
+          }
+        },
+        "confidence": 0.96301585
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 127,
+            "nanos": 460666000
+          },
+          "end_time_offset": {
+            "seconds": 131,
+            "nanos": 965166000
+          }
+        },
+        "confidence": 0.48425967
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/0gxl3",
+        "description": "handgun",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/032rk",
+        "description": "gun",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 119,
+            "nanos": 152366000
+          },
+          "end_time_offset": {
+            "seconds": 123,
+            "nanos": 990533000
+          }
+        },
+        "confidence": 0.98500168
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/02pd__z",
+        "description": "long hair",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/03q69",
+        "description": "hair",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 124,
+            "nanos": 23900000
+          },
+          "end_time_offset": {
+            "seconds": 127,
+            "nanos": 427300000
+          }
+        },
+        "confidence": 0.38044173
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/0k65p",
+        "description": "hand",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 57,
+            "nanos": 657600000
+          },
+          "end_time_offset": {
+            "seconds": 58,
+            "nanos": 892166000
+          }
+        },
+        "confidence": 0.72017527
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 110,
+            "nanos": 477033000
+          },
+          "end_time_offset": {
+            "seconds": 114,
+            "nanos": 80633000
+          }
+        },
+        "confidence": 0.51015604
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 127,
+            "nanos": 460666000
+          },
+          "end_time_offset": {
+            "seconds": 131,
+            "nanos": 965166000
+          }
+        },
+        "confidence": 0.5688591
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 131,
+            "nanos": 998533000
+          },
+          "end_time_offset": {
+            "seconds": 133,
+            "nanos": 867066000
+          }
+        },
+        "confidence": 0.32007989
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/0h8kv5p",
+        "description": "gun accessory",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/083kb",
+        "description": "weapon",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 119,
+            "nanos": 152366000
+          },
+          "end_time_offset": {
+            "seconds": 123,
+            "nanos": 990533000
+          }
+        },
+        "confidence": 0.4421283
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/02w3_2",
+        "description": "formal wear",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/09j2d",
+        "description": "clothing",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 114,
+            "nanos": 114000000
+          },
+          "end_time_offset": {
+            "seconds": 119,
+            "nanos": 119000000
+          }
+        },
+        "confidence": 0.36170635
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/01g6gs",
+        "description": "black and white",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/012yh1",
+        "description": "style",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 133,
+            "nanos": 900433000
+          },
+          "end_time_offset": {
+            "seconds": 140,
+            "nanos": 874066000
+          }
+        },
+        "confidence": 0.66280484
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/07s6nbt",
+        "description": "text",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 133,
+            "nanos": 900433000
+          },
+          "end_time_offset": {
+            "seconds": 140,
+            "nanos": 874066000
+          }
+        },
+        "confidence": 0.67258412
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/03gq5hm",
+        "description": "font",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/01mf0",
+        "description": "software",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 133,
+            "nanos": 900433000
+          },
+          "end_time_offset": {
+            "seconds": 140,
+            "nanos": 874066000
+          }
+        },
+        "confidence": 0.54553413
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/0dgw9r",
+        "description": "human",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 104,
+            "nanos": 437666000
+          },
+          "end_time_offset": {
+            "seconds": 110,
+            "nanos": 443666000
+          }
+        },
+        "confidence": 0.44796905
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 124,
+            "nanos": 23900000
+          },
+          "end_time_offset": {
+            "seconds": 127,
+            "nanos": 427300000
+          }
+        },
+        "confidence": 0.35020822
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/083kb",
+        "description": "weapon",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 110,
+            "nanos": 477033000
+          },
+          "end_time_offset": {
+            "seconds": 114,
+            "nanos": 80633000
+          }
+        },
+        "confidence": 0.59610301
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 119,
+            "nanos": 152366000
+          },
+          "end_time_offset": {
+            "seconds": 123,
+            "nanos": 990533000
+          }
+        },
+        "confidence": 0.95542836
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 127,
+            "nanos": 460666000
+          },
+          "end_time_offset": {
+            "seconds": 131,
+            "nanos": 965166000
+          }
+        },
+        "confidence": 0.74305654
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/088l6h",
+        "description": "family car",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/0k4j",
+        "description": "car",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+          
+          },
+          "end_time_offset": {
+            "seconds": 18,
+            "nanos": 251566000
+          }
+        },
+        "confidence": 0.36859715
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 18,
+            "nanos": 284933000
+          },
+          "end_time_offset": {
+            "seconds": 34,
+            "nanos": 567866000
+          }
+        },
+        "confidence": 0.34368855
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/025kyy",
+        "description": "forehead",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 124,
+            "nanos": 23900000
+          },
+          "end_time_offset": {
+            "seconds": 127,
+            "nanos": 427300000
+          }
+        },
+        "confidence": 0.32753813
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/0kw6d",
+        "description": "driving",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 18,
+            "nanos": 284933000
+          },
+          "end_time_offset": {
+            "seconds": 34,
+            "nanos": 567866000
+          }
+        },
+        "confidence": 0.730892
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 54,
+            "nanos": 354300000
+          },
+          "end_time_offset": {
+            "seconds": 57,
+            "nanos": 624233000
+          }
+        },
+        "confidence": 0.40565357
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/015c4z",
+        "description": "sitting",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/01g317",
+        "description": "person",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 54,
+            "nanos": 354300000
+          },
+          "end_time_offset": {
+            "seconds": 57,
+            "nanos": 624233000
+          }
+        },
+        "confidence": 0.34768975
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/039jq",
+        "description": "glass",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/01l0y0",
+        "description": "material",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 54,
+            "nanos": 354300000
+          },
+          "end_time_offset": {
+            "seconds": 57,
+            "nanos": 624233000
+          }
+        },
+        "confidence": 0.39118591
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/012f08",
+        "description": "motor vehicle",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/07yv9",
+        "description": "vehicle",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+          
+          },
+          "end_time_offset": {
+            "seconds": 18,
+            "nanos": 251566000
+          }
+        },
+        "confidence": 0.93508446
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 18,
+            "nanos": 284933000
+          },
+          "end_time_offset": {
+            "seconds": 34,
+            "nanos": 567866000
+          }
+        },
+        "confidence": 0.95119035
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 34,
+            "nanos": 601233000
+          },
+          "end_time_offset": {
+            "seconds": 40,
+            "nanos": 273566000
+          }
+        },
+        "confidence": 0.89351559
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 51,
+            "nanos": 284566000
+          },
+          "end_time_offset": {
+            "seconds": 54,
+            "nanos": 320933000
+          }
+        },
+        "confidence": 0.67802572
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 63,
+            "nanos": 96366000
+          },
+          "end_time_offset": {
+            "seconds": 104,
+            "nanos": 404300000
+          }
+        },
+        "confidence": 0.73949987
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/01v327",
+        "description": "lawn",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 63,
+            "nanos": 96366000
+          },
+          "end_time_offset": {
+            "seconds": 104,
+            "nanos": 404300000
+          }
+        },
+        "confidence": 0.36929011
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/09cx8",
+        "description": "finger",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/0k65p",
+        "description": "hand",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 57,
+            "nanos": 657600000
+          },
+          "end_time_offset": {
+            "seconds": 58,
+            "nanos": 892166000
+          }
+        },
+        "confidence": 0.67901641
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 110,
+            "nanos": 477033000
+          },
+          "end_time_offset": {
+            "seconds": 114,
+            "nanos": 80633000
+          }
+        },
+        "confidence": 0.43386975
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 127,
+            "nanos": 460666000
+          },
+          "end_time_offset": {
+            "seconds": 131,
+            "nanos": 965166000
+          }
+        },
+        "confidence": 0.58901358
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 131,
+            "nanos": 998533000
+          },
+          "end_time_offset": {
+            "seconds": 133,
+            "nanos": 867066000
+          }
+        },
+        "confidence": 0.3463906
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/0cdn2d",
+        "description": "trigger",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/032rk",
+        "description": "gun",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 119,
+            "nanos": 152366000
+          },
+          "end_time_offset": {
+            "seconds": 123,
+            "nanos": 990533000
+          }
+        },
+        "confidence": 0.77085751
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/01bmhj",
+        "description": "thumb",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/09cx8",
+        "description": "finger",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 57,
+            "nanos": 657600000
+          },
+          "end_time_offset": {
+            "seconds": 58,
+            "nanos": 892166000
+          }
+        },
+        "confidence": 0.3229883
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/04hgtk",
+        "description": "head",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 104,
+            "nanos": 437666000
+          },
+          "end_time_offset": {
+            "seconds": 110,
+            "nanos": 443666000
+          }
+        },
+        "confidence": 0.35814843
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 124,
+            "nanos": 23900000
+          },
+          "end_time_offset": {
+            "seconds": 127,
+            "nanos": 427300000
+          }
+        },
+        "confidence": 0.43809003
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/032rk",
+        "description": "gun",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/083kb",
+        "description": "weapon",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 110,
+            "nanos": 477033000
+          },
+          "end_time_offset": {
+            "seconds": 114,
+            "nanos": 80633000
+          }
+        },
+        "confidence": 0.8626622
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 119,
+            "nanos": 152366000
+          },
+          "end_time_offset": {
+            "seconds": 123,
+            "nanos": 990533000
+          }
+        },
+        "confidence": 0.8626622
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 127,
+            "nanos": 460666000
+          },
+          "end_time_offset": {
+            "seconds": 131,
+            "nanos": 965166000
+          }
+        },
+        "confidence": 0.8626622
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/0dwx7",
+        "description": "logo",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/021sdg",
+        "description": "graphics",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 133,
+            "nanos": 900433000
+          },
+          "end_time_offset": {
+            "seconds": 140,
+            "nanos": 874066000
+          }
+        },
+        "confidence": 0.31544724
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/01prls",
+        "description": "land vehicle",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/07yv9",
+        "description": "vehicle",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+          
+          },
+          "end_time_offset": {
+            "seconds": 18,
+            "nanos": 251566000
+          }
+        },
+        "confidence": 0.91823804
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 18,
+            "nanos": 284933000
+          },
+          "end_time_offset": {
+            "seconds": 34,
+            "nanos": 567866000
+          }
+        },
+        "confidence": 0.61818278
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 34,
+            "nanos": 601233000
+          },
+          "end_time_offset": {
+            "seconds": 40,
+            "nanos": 273566000
+          }
+        },
+        "confidence": 0.81436133
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 63,
+            "nanos": 96366000
+          },
+          "end_time_offset": {
+            "seconds": 104,
+            "nanos": 404300000
+          }
+        },
+        "confidence": 0.59362882
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/07j7r",
+        "description": "tree",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/05s2s",
+        "description": "plant",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 63,
+            "nanos": 96366000
+          },
+          "end_time_offset": {
+            "seconds": 104,
+            "nanos": 404300000
+          }
+        },
+        "confidence": 0.33325583
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/01xq49",
+        "description": "vintage car",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/0k4j",
+        "description": "car",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 63,
+            "nanos": 96366000
+          },
+          "end_time_offset": {
+            "seconds": 104,
+            "nanos": 404300000
+          }
+        },
+        "confidence": 0.45295197
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/02tjx",
+        "description": "emotion",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/01g317",
+        "description": "person",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 104,
+            "nanos": 437666000
+          },
+          "end_time_offset": {
+            "seconds": 110,
+            "nanos": 443666000
+          }
+        },
+        "confidence": 0.41300976
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/0fc1fy",
+        "description": "black hair",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/03q69",
+        "description": "hair",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 124,
+            "nanos": 23900000
+          },
+          "end_time_offset": {
+            "seconds": 127,
+            "nanos": 427300000
+          }
+        },
+        "confidence": 0.45323792
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/01ckgp",
+        "description": "interaction",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/01g317",
+        "description": "person",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 40,
+            "nanos": 306933000
+          },
+          "end_time_offset": {
+            "seconds": 51,
+            "nanos": 251200000
+          }
+        },
+        "confidence": 0.5499872
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/079bkr",
+        "description": "mode of transport",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+          
+          },
+          "end_time_offset": {
+            "seconds": 18,
+            "nanos": 251566000
+          }
+        },
+        "confidence": 0.48471481
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/02zn54",
+        "description": "gun barrel",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/032rk",
+        "description": "gun",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 119,
+            "nanos": 152366000
+          },
+          "end_time_offset": {
+            "seconds": 123,
+            "nanos": 990533000
+          }
+        },
+        "confidence": 0.53896046
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/01dv4h",
+        "description": "portrait",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 124,
+            "nanos": 23900000
+          },
+          "end_time_offset": {
+            "seconds": 127,
+            "nanos": 427300000
+          }
+        },
+        "confidence": 0.38980731
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/0k4j",
+        "description": "car",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/07yv9",
+        "description": "vehicle",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+          
+          },
+          "end_time_offset": {
+            "seconds": 18,
+            "nanos": 251566000
+          }
+        },
+        "confidence": 0.89592397
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 18,
+            "nanos": 284933000
+          },
+          "end_time_offset": {
+            "seconds": 34,
+            "nanos": 567866000
+          }
+        },
+        "confidence": 0.90949088
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 34,
+            "nanos": 601233000
+          },
+          "end_time_offset": {
+            "seconds": 40,
+            "nanos": 273566000
+          }
+        },
+        "confidence": 0.97419327
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 51,
+            "nanos": 284566000
+          },
+          "end_time_offset": {
+            "seconds": 54,
+            "nanos": 320933000
+          }
+        },
+        "confidence": 0.72587764
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 63,
+            "nanos": 96366000
+          },
+          "end_time_offset": {
+            "seconds": 104,
+            "nanos": 404300000
+          }
+        },
+        "confidence": 0.81989866
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/03vntj",
+        "description": "full size car",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/0k4j",
+        "description": "car",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+          
+          },
+          "end_time_offset": {
+            "seconds": 18,
+            "nanos": 251566000
+          }
+        },
+        "confidence": 0.39298084
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 34,
+            "nanos": 601233000
+          },
+          "end_time_offset": {
+            "seconds": 40,
+            "nanos": 273566000
+          }
+        },
+        "confidence": 0.66730356
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/04szw",
+        "description": "musical instrument",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 18,
+            "nanos": 284933000
+          },
+          "end_time_offset": {
+            "seconds": 34,
+            "nanos": 567866000
+          }
+        },
+        "confidence": 0.64626294
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 57,
+            "nanos": 657600000
+          },
+          "end_time_offset": {
+            "seconds": 58,
+            "nanos": 892166000
+          }
+        },
+        "confidence": 0.63944846
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/034qg",
+        "description": "firearm",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/083kb",
+        "description": "weapon",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 110,
+            "nanos": 477033000
+          },
+          "end_time_offset": {
+            "seconds": 114,
+            "nanos": 80633000
+          }
+        },
+        "confidence": 0.4754827
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 119,
+            "nanos": 152366000
+          },
+          "end_time_offset": {
+            "seconds": 123,
+            "nanos": 990533000
+          }
+        },
+        "confidence": 0.86582446
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 127,
+            "nanos": 460666000
+          },
+          "end_time_offset": {
+            "seconds": 131,
+            "nanos": 965166000
+          }
+        },
+        "confidence": 0.70047253
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/02ksmb",
+        "description": "brown hair",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/03q69",
+        "description": "hair",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 124,
+            "nanos": 23900000
+          },
+          "end_time_offset": {
+            "seconds": 127,
+            "nanos": 427300000
+          }
+        },
+        "confidence": 0.45736569
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/071rm",
+        "description": "shooting",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 110,
+            "nanos": 477033000
+          },
+          "end_time_offset": {
+            "seconds": 114,
+            "nanos": 80633000
+          }
+        },
+        "confidence": 0.36198905
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 119,
+            "nanos": 152366000
+          },
+          "end_time_offset": {
+            "seconds": 123,
+            "nanos": 990533000
+          }
+        },
+        "confidence": 0.78850466
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 127,
+            "nanos": 460666000
+          },
+          "end_time_offset": {
+            "seconds": 131,
+            "nanos": 965166000
+          }
+        },
+        "confidence": 0.69077224
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/019sc",
+        "description": "black",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 133,
+            "nanos": 900433000
+          },
+          "end_time_offset": {
+            "seconds": 140,
+            "nanos": 874066000
+          }
+        },
+        "confidence": 0.57601607
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/021sdg",
+        "description": "graphics",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/0dgsmq8",
+        "description": "artwork",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 133,
+            "nanos": 900433000
+          },
+          "end_time_offset": {
+            "seconds": 140,
+            "nanos": 874066000
+          }
+        },
+        "confidence": 0.32778645
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/07yv9",
+        "description": "vehicle",
+        "language_code": "en-US"
+      },
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+          
+          },
+          "end_time_offset": {
+            "seconds": 18,
+            "nanos": 251566000
+          }
+        },
+        "confidence": 0.95735013
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 18,
+            "nanos": 284933000
+          },
+          "end_time_offset": {
+            "seconds": 34,
+            "nanos": 567866000
+          }
+        },
+        "confidence": 0.94777673
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 34,
+            "nanos": 601233000
+          },
+          "end_time_offset": {
+            "seconds": 40,
+            "nanos": 273566000
+          }
+        },
+        "confidence": 0.98937142
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 51,
+            "nanos": 284566000
+          },
+          "end_time_offset": {
+            "seconds": 54,
+            "nanos": 320933000
+          }
+        },
+        "confidence": 0.94872946
+      }, {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 63,
+            "nanos": 96366000
+          },
+          "end_time_offset": {
+            "seconds": 104,
+            "nanos": 404300000
+          }
+        },
+        "confidence": 0.94074142
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/047vlmn",
+        "description": "outerwear",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/09j2d",
+        "description": "clothing",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 58,
+            "nanos": 925533000
+          },
+          "end_time_offset": {
+            "seconds": 63,
+            "nanos": 63000000
+          }
+        },
+        "confidence": 0.32315585
+      } ]
+    }, {
+      "entity": {
+        "entity_id": "/m/01d40f",
+        "description": "dress",
+        "language_code": "en-US"
+      },
+      "category_entities": [ {
+        "entity_id": "/m/09j2d",
+        "description": "clothing",
+        "language_code": "en-US"
+      } ],
+      "segments": [ {
+        "segment": {
+          "start_time_offset": {
+            "seconds": 114,
+            "nanos": 114000000
+          },
+          "end_time_offset": {
+            "seconds": 119,
+            "nanos": 119000000
+          }
+        },
+        "confidence": 0.50122464
+      } ]
+    } ]
+  } ]
+}
