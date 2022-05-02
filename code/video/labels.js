@@ -30,7 +30,7 @@ async function quickstart() {
     inputUri: gcsUri,
     features: ["LABEL_DETECTION"],
     videoContext: videoConfig,
-    outputUri: `gs://sentiment-classification-test/video/${videoName}.txt`,
+    outputUri: `gs://sentiment-classification-test/video/${videoName}.json`,
   };
 
   // Detects labels in a video
