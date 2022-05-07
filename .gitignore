@@ -11,4 +11,6 @@
 .env.test.local
 .env.production.local
 /env
+/lib
+/bin
 

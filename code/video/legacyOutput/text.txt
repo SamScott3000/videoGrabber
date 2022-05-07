@@ -1,0 +1,1021 @@
+Entity description:  window
+Entity id: /m/0d4v4
+Segment: 80.380s to 80.881s
+Confidence: 0.5527815818786621
+Time offset for the first frame: 80.380s
+Bounding box position:
+ left   :0.02012304961681366
+ top    :0.11682135611772537
+ right  :0.18306203186511993
+ bottom :0.2593374252319336
+Entity description:  outerwear
+Entity id: /m/047vlmn
+Segment: 80.881s to 82.282s
+Confidence: 0.6749999523162842
+Time offset for the first frame: 80.881s
+Bounding box position:
+ left   :0.6416178941726685
+ top    :0.6185430884361267
+ right  :0.8152623176574707
+ bottom :0.9980704188346863
+Entity description:  tire
+Entity id: /m/0h9mv
+Segment: 81.481s to 82.82s
+Confidence: 0.7235759496688843
+Time offset for the first frame: 81.481s
+Bounding box position:
+ left   :0.8233045339584351
+ top    :0.4991001486778259
+ right  :0.8978003263473511
+ bottom :0.6724223494529724
+Entity description:  pants
+Entity id: /m/07mhn
+Segment: 82.282s to 84.184s
+Confidence: 0.6284170746803284
+Time offset for the first frame: 82.282s
+Bounding box position:
+ left   :0.6109875440597534
+ top    :0.9307736158370972
+ right  :0.7854174375534058
+ bottom :0.9972103834152222
+Entity description:  wheel
+Entity id: /m/083wq
+Segment: 82.683s to 82.683s
+Confidence: 0.621259331703186
+Time offset for the first frame: 82.683s
+Bounding box position:
+ left   :0.7015924453735352
+ top    :0.5303364992141724
+ right  :0.7756037712097168
+ bottom :0.688254714012146
+Entity description:  window
+Entity id: /m/0d4v4
+Segment: 82.783s to 82.783s
+Confidence: 0.5592356324195862
+Time offset for the first frame: 82.783s
+Bounding box position:
+ left   :0.01666318252682686
+ top    :0.05980735272169113
+ right  :0.13162672519683838
+ bottom :0.2083805799484253
+Entity description:  car
+Entity id: /m/0k4j
+Segment: 82.883s to 83.183s
+Confidence: 0.9141287207603455
+Time offset for the first frame: 82.883s
+Bounding box position:
+ left   :0.5018090605735779
+ top    :0.29840925335884094
+ right  :0.7249102592468262
+ bottom :0.4846458435058594
+Entity description:  footwear
+Entity id: /m/09j5n
+Segment: 83.83s to 83.183s
+Confidence: 0.5783216953277588
+Time offset for the first frame: 83.83s
+Bounding box position:
+ left   :0.6074686050415039
+ top    :0.8128188848495483
+ right  :0.6743329763412476
+ bottom :0.9615087509155273
+Entity description:  waste container
+Entity id: /m/0bjyj5
+Segment: 83.283s to 83.483s
+Confidence: 0.5602468252182007
+Time offset for the first frame: 83.283s
+Bounding box position:
+ left   :0.9146513342857361
+ top    :0.23412492871284485
+ right  :0.9980640411376953
+ bottom :0.5610233545303345
+Entity description:  pants
+Entity id: /m/07mhn
+Segment: 83.283s to 95.696s
+Confidence: 0.6326911449432373
+Time offset for the first frame: 83.283s
+Bounding box position:
+ left   :0.5843743085861206
+ top    :0.700874924659729
+ right  :0.817240297794342
+ bottom :0.9990572333335876
+Entity description:  tire
+Entity id: /m/0h9mv
+Segment: 83.383s to 83.483s
+Confidence: 0.677247166633606
+Time offset for the first frame: 83.383s
+Bounding box position:
+ left   :0.709349513053894
+ top    :0.48562607169151306
+ right  :0.7738902568817139
+ bottom :0.6930721402168274
+Entity description:  pants
+Entity id: /m/07mhn
+Segment: 83.483s to 94.94s
+Confidence: 0.7048034071922302
+Time offset for the first frame: 83.483s
+Bounding box position:
+ left   :0.7033490538597107
+ top    :0.4649215042591095
+ right  :0.7757441997528076
+ bottom :0.6647977828979492
+Entity description:  window
+Entity id: /m/0d4v4
+Segment: 83.784s to 83.784s
+Confidence: 0.5118919610977173
+Time offset for the first frame: 83.784s
+Bounding box position:
+ left   :0.003929100930690765
+ top    :0.05274639278650284
+ right  :0.1173149049282074
+ bottom :0.1898123025894165
+Entity description:  car
+Entity id: /m/0k4j
+Segment: 84.484s to 84.785s
+Confidence: 0.9219656586647034
+Time offset for the first frame: 84.484s
+Bounding box position:
+ left   :0.4923250377178192
+ top    :0.2829191982746124
+ right  :0.6974508762359619
+ bottom :0.4837988615036011
+Entity description:  top
+Entity id: /m/03gx245
+Segment: 84.585s to 86.186s
+Confidence: 0.6444199085235596
+Time offset for the first frame: 84.585s
+Bounding box position:
+ left   :0.6750269532203674
+ top    :0.8110809326171875
+ right  :0.8214259147644043
+ bottom :0.9945803880691528
+Entity description:  wheel
+Entity id: /m/083wq
+Segment: 84.585s to 89.189s
+Confidence: 0.8309386372566223
+Time offset for the first frame: 84.585s
+Bounding box position:
+ left   :0.6995704174041748
+ top    :0.4584769606590271
+ right  :0.7742029428482056
+ bottom :0.6703894734382629
+Entity description:  tire
+Entity id: /m/0h9mv
+Segment: 84.785s to 85.786s
+Confidence: 0.5446851253509521
+Time offset for the first frame: 84.785s
+Bounding box position:
+ left   :0.27236321568489075
+ top    :0.5944816470146179
+ right  :0.3711942434310913
+ bottom :0.6896670460700989
+Entity description:  tire
+Entity id: /m/0h9mv
+Segment: 84.885s to 86.887s
+Confidence: 0.8305354118347168
+Time offset for the first frame: 84.885s
+Bounding box position:
+ left   :0.47496551275253296
+ top    :0.5371412634849548
+ right  :0.564790666103363
+ bottom :0.6852144002914429
+Entity description:  tire
+Entity id: /m/0h9mv
+Segment: 84.885s to 85.786s
+Confidence: 0.7453296184539795
+Time offset for the first frame: 84.885s
+Bounding box position:
+ left   :0.7002079486846924
+ top    :0.44463443756103516
+ right  :0.7740175724029541
+ bottom :0.6732076406478882
+Entity description:  pants
+Entity id: /m/07mhn
+Segment: 85.85s to 85.886s
+Confidence: 0.5881084203720093
+Time offset for the first frame: 85.85s
+Bounding box position:
+ left   :0.5396702289581299
+ top    :0.9048526287078857
+ right  :0.7389886975288391
+ bottom :1
+Entity description:  car
+Entity id: /m/0k4j
+Segment: 86.486s to 86.787s
+Confidence: 0.8943687081336975
+Time offset for the first frame: 86.486s
+Bounding box position:
+ left   :0.47441619634628296
+ top    :0.26263999938964844
+ right  :0.6846557855606079
+ bottom :0.4383716583251953
+Entity description:  tire
+Entity id: /m/0h9mv
+Segment: 86.987s to 90.190s
+Confidence: 0.7533631324768066
+Time offset for the first frame: 86.987s
+Bounding box position:
+ left   :0.2669958174228668
+ top    :0.5919063687324524
+ right  :0.36732667684555054
+ bottom :0.6817173361778259
+Entity description:  wheel
+Entity id: /m/083wq
+Segment: 86.987s to 93.493s
+Confidence: 0.7722131013870239
+Time offset for the first frame: 86.987s
+Bounding box position:
+ left   :0.698323130607605
+ top    :0.41710349917411804
+ right  :0.7783285975456238
+ bottom :0.644044041633606
+Entity description:  tire
+Entity id: /m/0h9mv
+Segment: 88.88s to 88.689s
+Confidence: 0.5096896290779114
+Time offset for the first frame: 88.88s
+Bounding box position:
+ left   :0.2679139971733093
+ top    :0.5910971164703369
+ right  :0.3663828372955322
+ bottom :0.683167040348053
+Entity description:  tire
+Entity id: /m/0h9mv
+Segment: 88.388s to 89.289s
+Confidence: 0.7200620174407959
+Time offset for the first frame: 88.388s
+Bounding box position:
+ left   :0.4666004776954651
+ top    :0.5182641744613647
+ right  :0.5632945895195007
+ bottom :0.6708859205245972
+Entity description:  tire
+Entity id: /m/0h9mv
+Segment: 88.388s to 89.389s
+Confidence: 0.5606480240821838
+Time offset for the first frame: 88.388s
+Bounding box position:
+ left   :0.7253495454788208
+ top    :0.4239705204963684
+ right  :0.7886053323745728
+ bottom :0.6294016242027283
+Entity description:  shoe
+Entity id: /m/06rrc
+Segment: 89.590s to 89.990s
+Confidence: 0.5976182222366333
+Time offset for the first frame: 89.590s
+Bounding box position:
+ left   :0.6375933885574341
+ top    :0.7546449303627014
+ right  :0.7223016023635864
+ bottom :1
+Entity description:  person
+Entity id: /m/01g317
+Segment: 90.90s to 90.390s
+Confidence: 0.7652077674865723
+Time offset for the first frame: 90.90s
+Bounding box position:
+ left   :0.511486828327179
+ top    :0.7055460810661316
+ right  :0.7081576585769653
+ bottom :1
+Entity description:  tire
+Entity id: /m/0h9mv
+Segment: 90.290s to 91.291s
+Confidence: 0.8134099841117859
+Time offset for the first frame: 90.290s
+Bounding box position:
+ left   :0.47059327363967896
+ top    :0.5502946972846985
+ right  :0.5377004742622375
+ bottom :0.7318602204322815
+Entity description:  wheel
+Entity id: /m/083wq
+Segment: 90.290s to 90.290s
+Confidence: 0.5794938802719116
+Time offset for the first frame: 90.290s
+Bounding box position:
+ left   :0.4676973819732666
+ top    :0.5507696866989136
+ right  :0.5261858105659485
+ bottom :0.7334612607955933
+Entity description:  tire
+Entity id: /m/0h9mv
+Segment: 90.290s to 92.192s
+Confidence: 0.537653386592865
+Time offset for the first frame: 90.290s
+Bounding box position:
+ left   :0.27753928303718567
+ top    :0.5976666212081909
+ right  :0.3736562728881836
+ bottom :0.6930638551712036
+Entity description:  wheel
+Entity id: /m/083wq
+Segment: 91.191s to 92.492s
+Confidence: 0.873072624206543
+Time offset for the first frame: 91.191s
+Bounding box position:
+ left   :0.48957011103630066
+ top    :0.5423046350479126
+ right  :0.5608755350112915
+ bottom :0.7645571231842041
+Entity description:  tire
+Entity id: /m/0h9mv
+Segment: 91.291s to 91.491s
+Confidence: 0.7754729390144348
+Time offset for the first frame: 91.291s
+Bounding box position:
+ left   :0.7797490358352661
+ top    :0.4684102237224579
+ right  :0.8351083397865295
+ bottom :0.6444042921066284
+Entity description:  wheel
+Entity id: /m/083wq
+Segment: 91.792s to 94.494s
+Confidence: 0.6954399347305298
+Time offset for the first frame: 91.792s
+Bounding box position:
+ left   :0.8187253475189209
+ top    :0.43620699644088745
+ right  :0.8802424073219299
+ bottom :0.6392702460289001
+Entity description:  window
+Entity id: /m/0d4v4
+Segment: 91.892s to 95.996s
+Confidence: 0.5557444095611572
+Time offset for the first frame: 91.892s
+Bounding box position:
+ left   :0.0011226534843444824
+ top    :0.053697407245635986
+ right  :0.11069484055042267
+ bottom :0.19993630051612854
+Entity description:  tire
+Entity id: /m/0h9mv
+Segment: 92.392s to 92.693s
+Confidence: 0.8081493377685547
+Time offset for the first frame: 92.392s
+Bounding box position:
+ left   :0.489693284034729
+ top    :0.5540989637374878
+ right  :0.5562398433685303
+ bottom :0.774738073348999
+Entity description:  tire
+Entity id: /m/0h9mv
+Segment: 92.392s to 93.293s
+Confidence: 0.7946270704269409
+Time offset for the first frame: 92.392s
+Bounding box position:
+ left   :0.7835474610328674
+ top    :0.4741639196872711
+ right  :0.8398106098175049
+ bottom :0.6467437744140625
+Entity description:  luggage & bags
+Entity id: /m/0hf58v5
+Segment: 92.793s to 93.694s
+Confidence: 0.6375648379325867
+Time offset for the first frame: 92.793s
+Bounding box position:
+ left   :0.46665918827056885
+ top    :0.8119291067123413
+ right  :0.721946120262146
+ bottom :0.9994151592254639
+Entity description:  tire
+Entity id: /m/0h9mv
+Segment: 92.793s to 93.694s
+Confidence: 0.7624606490135193
+Time offset for the first frame: 92.793s
+Bounding box position:
+ left   :0.8277843594551086
+ top    :0.43379494547843933
+ right  :0.8978443145751953
+ bottom :0.6434350609779358
+Entity description:  wheel
+Entity id: /m/083wq
+Segment: 93.393s to 95.696s
+Confidence: 0.8805887699127197
+Time offset for the first frame: 93.393s
+Bounding box position:
+ left   :0.5504127740859985
+ top    :0.5723024606704712
+ right  :0.6018338203430176
+ bottom :0.7738100290298462
+Entity description:  person
+Entity id: /m/01g317
+Segment: 93.594s to 96.897s
+Confidence: 0.9674285650253296
+Time offset for the first frame: 93.594s
+Bounding box position:
+ left   :0.34817075729370117
+ top    :0.0549982450902462
+ right  :0.5970926880836487
+ bottom :0.9644840955734253
+Entity description:  tire
+Entity id: /m/0h9mv
+Segment: 93.594s to 94.194s
+Confidence: 0.5637914538383484
+Time offset for the first frame: 93.594s
+Bounding box position:
+ left   :0.30255794525146484
+ top    :0.6379609704017639
+ right  :0.40691202878952026
+ bottom :0.730733335018158
+Entity description:  tire
+Entity id: /m/0h9mv
+Segment: 93.694s to 94.695s
+Confidence: 0.7175271511077881
+Time offset for the first frame: 93.694s
+Bounding box position:
+ left   :0.5418367385864258
+ top    :0.5786914825439453
+ right  :0.6144402027130127
+ bottom :0.7765573859214783
+Entity description:  top
+Entity id: /m/03gx245
+Segment: 94.294s to 94.695s
+Confidence: 0.764586865901947
+Time offset for the first frame: 94.294s
+Bounding box position:
+ left   :0.4885863661766052
+ top    :0.29865938425064087
+ right  :0.5675672292709351
+ bottom :0.6098455786705017
+Entity description:  hat
+Entity id: /m/02dl1y
+Segment: 94.394s to 94.394s
+Confidence: 0.5624228119850159
+Time offset for the first frame: 94.394s
+Bounding box position:
+ left   :0.6691405773162842
+ top    :0.8655150532722473
+ right  :0.8483467102050781
+ bottom :0.9994458556175232
+Entity description:  window
+Entity id: /m/0d4v4
+Segment: 94.494s to 94.494s
+Confidence: 0.6424658298492432
+Time offset for the first frame: 94.494s
+Bounding box position:
+ left   :0.4420746862888336
+ top    :0.13081935048103333
+ right  :0.5296198129653931
+ bottom :0.2945781648159027
+Entity description:  outerwear
+Entity id: /m/047vlmn
+Segment: 94.695s to 96.697s
+Confidence: 0.7477474212646484
+Time offset for the first frame: 94.695s
+Bounding box position:
+ left   :0.42719948291778564
+ top    :0.11184230446815491
+ right  :0.6929663419723511
+ bottom :0.9735091924667358
+Entity description:  window
+Entity id: /m/0d4v4
+Segment: 95.495s to 96.96s
+Confidence: 0.5929597020149231
+Time offset for the first frame: 95.495s
+Bounding box position:
+ left   :0.010597262531518936
+ top    :0.21960583329200745
+ right  :0.09493640065193176
+ bottom :0.37796422839164734
+Entity description:  window
+Entity id: /m/0d4v4
+Segment: 95.896s to 95.896s
+Confidence: 0.54536372423172
+Time offset for the first frame: 95.896s
+Bounding box position:
+ left   :0.7760910987854004
+ top    :0.1990116536617279
+ right  :0.8498803377151489
+ bottom :0.3552059829235077
+Entity description:  pants
+Entity id: /m/07mhn
+Segment: 96.396s to 97.497s
+Confidence: 0.6082488894462585
+Time offset for the first frame: 96.396s
+Bounding box position:
+ left   :0.8194544315338135
+ top    :0.3951457738876343
+ right  :0.9037312269210815
+ bottom :0.5486554503440857
+Entity description:  car
+Entity id: /m/0k4j
+Segment: 96.496s to 96.797s
+Confidence: 0.9067468643188477
+Time offset for the first frame: 96.496s
+Bounding box position:
+ left   :0.9169448018074036
+ top    :0.5041218996047974
+ right  :1
+ bottom :0.7386118769645691
+Entity description:  top
+Entity id: /m/03gx245
+Segment: 96.597s to 96.697s
+Confidence: 0.6459131240844727
+Time offset for the first frame: 96.597s
+Bounding box position:
+ left   :0.8777034282684326
+ top    :0.3931409418582916
+ right  :0.969231128692627
+ bottom :0.5348936319351196
+Entity description:  coat
+Entity id: /m/01xygc
+Segment: 96.697s to 104.404s
+Confidence: 0.7813184857368469
+Time offset for the first frame: 96.697s
+Bounding box position:
+ left   :0.8978152275085449
+ top    :0.3363015353679657
+ right  :0.9964313507080078
+ bottom :0.7362325191497803
+Entity description:  car
+Entity id: /m/0k4j
+Segment: 99.600s to 100.400s
+Confidence: 0.9765958189964294
+Time offset for the first frame: 99.600s
+Bounding box position:
+ left   :0.002375989919528365
+ top    :0.4967442750930786
+ right  :0.130407452583313
+ bottom :0.7265543341636658
+Entity description:  house
+Entity id: /m/03jm5
+Segment: 101.201s to 101.201s
+Confidence: 0.5204888582229614
+Time offset for the first frame: 101.201s
+Bounding box position:
+ left   :0.2677175998687744
+ top    :0.268327534198761
+ right  :0.67166668176651
+ bottom :0.6086466908454895
+Entity description:  car
+Entity id: /m/0k4j
+Segment: 101.702s to 103.203s
+Confidence: 0.9854084253311157
+Time offset for the first frame: 101.702s
+Bounding box position:
+ left   :0.0008803177042864263
+ top    :0.522519052028656
+ right  :0.27293360233306885
+ bottom :0.9174711108207703
+Entity description:  house
+Entity id: /m/03jm5
+Segment: 102.603s to 104.404s
+Confidence: 0.6988947987556458
+Time offset for the first frame: 102.603s
+Bounding box position:
+ left   :0.00734257698059082
+ top    :0.20958346128463745
+ right  :0.687625527381897
+ bottom :0.5750578045845032
+Entity description:  window
+Entity id: /m/0d4v4
+Segment: 102.603s to 104.404s
+Confidence: 0.7411821484565735
+Time offset for the first frame: 102.603s
+Bounding box position:
+ left   :0.016385719180107117
+ top    :0.3587263822555542
+ right  :0.18223464488983154
+ bottom :0.45306655764579773
+Entity description:  plant
+Entity id: /m/05s2s
+Segment: 102.803s to 103.203s
+Confidence: 0.5966591835021973
+Time offset for the first frame: 102.803s
+Bounding box position:
+ left   :0.6967558264732361
+ top    :0.4139789342880249
+ right  :0.8145614862442017
+ bottom :0.5659647583961487
+Entity description:  car
+Entity id: /m/0k4j
+Segment: 103.103s to 104.404s
+Confidence: 0.9226749539375305
+Time offset for the first frame: 103.103s
+Bounding box position:
+ left   :0.41019800305366516
+ top    :0.454239159822464
+ right  :0.6734777688980103
+ bottom :0.8413188457489014
+Entity description:  car
+Entity id: /m/0k4j
+Segment: 103.303s to 104.404s
+Confidence: 0.907446563243866
+Time offset for the first frame: 103.303s
+Bounding box position:
+ left   :0.5573840737342834
+ top    :0.4187832474708557
+ right  :0.67798912525177
+ bottom :0.5389755368232727
+Entity description:  clothing
+Entity id: /m/09j2d
+Segment: 104.404s to 104.404s
+Confidence: 0.574849009513855
+Time offset for the first frame: 104.404s
+Bounding box position:
+ left   :0.3420777916908264
+ top    :0.4276373088359833
+ right  :0.4627244472503662
+ bottom :0.9406940937042236
+Entity description:  person
+Entity id: /m/01g317
+Segment: 104.504s to 114.14s
+Confidence: 0.9627291560173035
+Time offset for the first frame: 104.504s
+Bounding box position:
+ left   :0.24738739430904388
+ top    :0.22390326857566833
+ right  :0.6706280708312988
+ bottom :0.9810559749603271
+Entity description:  shirt
+Entity id: /m/01n4qj
+Segment: 104.504s to 110.210s
+Confidence: 0.6737279891967773
+Time offset for the first frame: 104.504s
+Bounding box position:
+ left   :0.2544397711753845
+ top    :0.6427432298660278
+ right  :0.6576295495033264
+ bottom :0.999775767326355
+Entity description:  person
+Entity id: /m/01g317
+Segment: 107.7s to 107.207s
+Confidence: 0.9174918532371521
+Time offset for the first frame: 107.7s
+Bounding box position:
+ left   :0
+ top    :0.10625000298023224
+ right  :0.4248826205730438
+ bottom :0.9833333492279053
+Entity description:  lighting
+Entity id: /m/019sc6
+Segment: 107.107s to 107.107s
+Confidence: 0.5240095853805542
+Time offset for the first frame: 107.107s
+Bounding box position:
+ left   :0.2842986583709717
+ top    :0.47239619493484497
+ right  :0.41858989000320435
+ bottom :0.6003510355949402
+Entity description:  hat
+Entity id: /m/02dl1y
+Segment: 108.809s to 109.109s
+Confidence: 0.6394056081771851
+Time offset for the first frame: 108.809s
+Bounding box position:
+ left   :0.2313247174024582
+ top    :0.01729181408882141
+ right  :0.7063612341880798
+ bottom :0.6062557697296143
+Entity description:  clothing
+Entity id: /m/09j2d
+Segment: 110.410s to 110.410s
+Confidence: 0.5212553143501282
+Time offset for the first frame: 110.410s
+Bounding box position:
+ left   :0.6793057918548584
+ top    :0.7225445508956909
+ right  :0.9527275562286377
+ bottom :0.9985253810882568
+Entity description:  electronic device
+Entity id: /m/0bs7_0t
+Segment: 111.111s to 111.111s
+Confidence: 0.5239724516868591
+Time offset for the first frame: 111.111s
+Bounding box position:
+ left   :0.032986849546432495
+ top    :0.39338624477386475
+ right  :0.9128187894821167
+ bottom :0.8828599452972412
+Entity description:  packaged goods
+Entity id: /j/5qg9b8
+Segment: 111.311s to 111.912s
+Confidence: 0.6725304126739502
+Time offset for the first frame: 111.311s
+Bounding box position:
+ left   :0.054819315671920776
+ top    :0.518663227558136
+ right  :0.9182174205780029
+ bottom :0.9718831181526184
+Entity description:  handgun
+Entity id: /m/0gxl3
+Segment: 111.411s to 114.14s
+Confidence: 0.834283709526062
+Time offset for the first frame: 111.411s
+Bounding box position:
+ left   :0.02993786334991455
+ top    :0.5014077425003052
+ right  :0.9160948395729065
+ bottom :0.9878523349761963
+Entity description:  handgun
+Entity id: /m/0gxl3
+Segment: 111.612s to 112.12s
+Confidence: 0.6802588701248169
+Time offset for the first frame: 111.612s
+Bounding box position:
+ left   :0.047760650515556335
+ top    :0.4259721636772156
+ right  :0.4170648455619812
+ bottom :0.9121008515357971
+Entity description:  camera
+Entity id: /m/0dv5r
+Segment: 112.112s to 112.112s
+Confidence: 0.5351791381835938
+Time offset for the first frame: 112.112s
+Bounding box position:
+ left   :0.07923302054405212
+ top    :0.3177078664302826
+ right  :0.9810898303985596
+ bottom :0.8383491039276123
+Entity description:  person
+Entity id: /m/01g317
+Segment: 114.114s to 119.119s
+Confidence: 0.9830119609832764
+Time offset for the first frame: 114.114s
+Bounding box position:
+ left   :0.20745353400707245
+ top    :0.11067371070384979
+ right  :0.5285086035728455
+ bottom :0.9736050367355347
+Entity description:  person
+Entity id: /m/01g317
+Segment: 114.114s to 118.18s
+Confidence: 0.9859741926193237
+Time offset for the first frame: 114.114s
+Bounding box position:
+ left   :0.11196242272853851
+ top    :0.13804107904434204
+ right  :0.4194970726966858
+ bottom :0.9718613028526306
+Entity description:  outerwear
+Entity id: /m/047vlmn
+Segment: 114.114s to 117.918s
+Confidence: 0.8553456664085388
+Time offset for the first frame: 114.114s
+Bounding box position:
+ left   :0.09051600843667984
+ top    :0.2913261950016022
+ right  :0.4146674573421478
+ bottom :0.9909967184066772
+Entity description:  outerwear
+Entity id: /m/047vlmn
+Segment: 114.114s to 119.119s
+Confidence: 0.8243908882141113
+Time offset for the first frame: 114.114s
+Bounding box position:
+ left   :0.348204642534256
+ top    :0.13917294144630432
+ right  :0.61760413646698
+ bottom :0.9845594167709351
+Entity description:  top
+Entity id: /m/03gx245
+Segment: 114.114s to 119.119s
+Confidence: 0.7299988865852356
+Time offset for the first frame: 114.114s
+Bounding box position:
+ left   :0.40665677189826965
+ top    :0.3126348555088043
+ right  :0.5436465740203857
+ bottom :0.6828256845474243
+Entity description:  skirt
+Entity id: /m/02wv6h6
+Segment: 114.114s to 119.119s
+Confidence: 0.6728585958480835
+Time offset for the first frame: 114.114s
+Bounding box position:
+ left   :0.38431480526924133
+ top    :0.6487890481948853
+ right  :0.5943313837051392
+ bottom :0.9989421367645264
+Entity description:  belt
+Entity id: /m/0176mf
+Segment: 114.214s to 116.917s
+Confidence: 0.5789221525192261
+Time offset for the first frame: 114.214s
+Bounding box position:
+ left   :0.3892894685268402
+ top    :0.7390836477279663
+ right  :0.5125998854637146
+ bottom :0.8141978979110718
+Entity description:  plant
+Entity id: /m/05s2s
+Segment: 115.315s to 115.315s
+Confidence: 0.5439847111701965
+Time offset for the first frame: 115.315s
+Bounding box position:
+ left   :0.001698572188615799
+ top    :0.5190778374671936
+ right  :0.11463706195354462
+ bottom :0.9948983788490295
+Entity description:  tie
+Entity id: /m/01rkbr
+Segment: 117.417s to 117.918s
+Confidence: 0.8072465062141418
+Time offset for the first frame: 117.417s
+Bounding box position:
+ left   :0.40610450506210327
+ top    :0.5041013956069946
+ right  :0.5039231181144714
+ bottom :0.9975773096084595
+Entity description:  plant
+Entity id: /m/05s2s
+Segment: 117.417s to 118.318s
+Confidence: 0.5249254107475281
+Time offset for the first frame: 117.417s
+Bounding box position:
+ left   :0.0028447136282920837
+ top    :0.5938190221786499
+ right  :0.12557294964790344
+ bottom :0.9997010827064514
+Entity description:  window
+Entity id: /m/0d4v4
+Segment: 117.517s to 117.517s
+Confidence: 0.607445240020752
+Time offset for the first frame: 117.517s
+Bounding box position:
+ left   :0.6178197264671326
+ top    :0.026596814393997192
+ right  :0.9606735706329346
+ bottom :0.9773998260498047
+Entity description:  handgun
+Entity id: /m/0gxl3
+Segment: 119.219s to 123.924s
+Confidence: 0.7601232528686523
+Time offset for the first frame: 119.219s
+Bounding box position:
+ left   :0.07964733242988586
+ top    :0.10789847373962402
+ right  :0.9640097618103027
+ bottom :0.7240749597549438
+Entity description:  person
+Entity id: /m/01g317
+Segment: 119.319s to 123.924s
+Confidence: 0.9059146642684937
+Time offset for the first frame: 119.319s
+Bounding box position:
+ left   :0.089201919734478
+ top    :0.07728637754917145
+ right  :0.8649802803993225
+ bottom :0.9649507403373718
+Entity description:  bracelet
+Entity id: /m/01llx7
+Segment: 121.121s to 121.321s
+Confidence: 0.6016746759414673
+Time offset for the first frame: 121.121s
+Bounding box position:
+ left   :0.3458619713783264
+ top    :0.8517292141914368
+ right  :0.7084473967552185
+ bottom :0.9986451268196106
+Entity description:  person
+Entity id: /m/01g317
+Segment: 123.724s to 123.924s
+Confidence: 0.7927252054214478
+Time offset for the first frame: 123.724s
+Bounding box position:
+ left   :0.10639740526676178
+ top    :0
+ right  :0.8639789819717407
+ bottom :0.8989019393920898
+Entity description:  person
+Entity id: /m/01g317
+Segment: 124.24s to 127.427s
+Confidence: 0.9885623455047607
+Time offset for the first frame: 124.24s
+Bounding box position:
+ left   :0.17474091053009033
+ top    :0.015023380517959595
+ right  :0.8632094264030457
+ bottom :0.9962323904037476
+Entity description:  clothing
+Entity id: /m/09j2d
+Segment: 124.24s to 127.427s
+Confidence: 0.7150574922561646
+Time offset for the first frame: 124.24s
+Bounding box position:
+ left   :0.20089107751846313
+ top    :0.7936770915985107
+ right  :0.8683059811592102
+ bottom :0.9978617429733276
+Entity description:  handgun
+Entity id: /m/0gxl3
+Segment: 127.527s to 131.932s
+Confidence: 0.7602897882461548
+Time offset for the first frame: 127.527s
+Bounding box position:
+ left   :0.028963923454284668
+ top    :0.12747663259506226
+ right  :0.729063868522644
+ bottom :0.7033088803291321
+Entity description:  person
+Entity id: /m/01g317
+Segment: 127.728s to 131.932s
+Confidence: 0.8865642547607422
+Time offset for the first frame: 127.728s
+Bounding box position:
+ left   :0.09664014726877213
+ top    :0
+ right  :0.8261757493019104
+ bottom :0.954484224319458
+Entity description:  camera
+Entity id: /m/0dv5r
+Segment: 130.831s to 130.831s
+Confidence: 0.6916549801826477
+Time offset for the first frame: 130.831s
+Bounding box position:
+ left   :0.026714088395237923
+ top    :0.13611653447151184
+ right  :0.5580126643180847
+ bottom :0.7006887197494507
+Entity description:  packaged goods
+Entity id: /j/5qg9b8
+Segment: 132.32s to 133.834s
+Confidence: 0.6840042471885681
+Time offset for the first frame: 132.32s
+Bounding box position:
+ left   :0.12935400009155273
+ top    :0.0016425251960754395
+ right  :0.7403641939163208
+ bottom :0.9951145052909851
+Entity description:  person
+Entity id: /m/01g317
+Segment: 132.132s to 133.834s
+Confidence: 0.8898285031318665
+Time offset for the first frame: 132.132s
+Bounding box position:
+ left   :0.31174373626708984
+ top    :0.013726158067584038
+ right  :0.9991196990013123
+ bottom :0.9905308485031128
+Entity description:  home appliance
+Entity id: /m/019dx1
+Segment: 132.132s to 133.333s
+Confidence: 0.593672513961792
+Time offset for the first frame: 132.132s
+Bounding box position:
+ left   :0.04682886600494385
+ top    :0.00879088044166565
+ right  :0.6273248791694641
+ bottom :0.9946836233139038
+Entity description:  tableware
+Entity id: /m/04brg2
+Segment: 132.232s to 132.633s
+Confidence: 0.5924471020698547
+Time offset for the first frame: 132.232s
+Bounding box position:
+ left   :0.21502196788787842
+ top    :0.43280333280563354
+ right  :0.36088722944259644
+ bottom :0.705815851688385
+Entity description:  tableware
+Entity id: /m/04brg2
+Segment: 132.633s to 132.933s
+Confidence: 0.5839793682098389
+Time offset for the first frame: 132.633s
+Bounding box position:
+ left   :0.021005451679229736
+ top    :0.021731048822402954
+ right  :0.7034631967544556
+ bottom :0.9953569173812866
+Entity description:  box
+Entity id: /m/025dyy
+Segment: 133.33s to 133.734s
+Confidence: 0.6628071069717407
+Time offset for the first frame: 133.33s
+Bounding box position:
+ left   :0.05274122953414917
+ top    :0.023247092962265015
+ right  :0.7347976565361023
+ bottom :0.988075852394104
+Entity description:  clothing
+Entity id: /m/09j2d
+Segment: 133.133s to 133.133s
+Confidence: 0.5111813545227051
+Time offset for the first frame: 133.133s
+Bounding box position:
+ left   :0.5157196521759033
+ top    :0.009614259004592896
+ right  :0.994493842124939
+ bottom :0.9521551132202148
+Entity description:  kitchen appliance
+Entity id: /m/0h99cwc
+Segment: 133.233s to 133.233s
+Confidence: 0.6629971861839294
+Time offset for the first frame: 133.233s
+Bounding box position:
+ left   :0.08822876214981079
+ top    :0.02490559220314026
+ right  :0.7622969150543213
+ bottom :0.988971471786499
+Entity description:  shoe
+Entity id: /m/06rrc
+Segment: 133.433s to 133.533s
+Confidence: 0.6086715459823608
+Time offset for the first frame: 133.433s
+Bounding box position:
+ left   :0.3944668173789978
+ top    :0.4445576071739197
+ right  :0.5759897828102112
+ bottom :0.6736028790473938
+Sams-MacBook-Pro-2:video samscott$ 
