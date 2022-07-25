@@ -1,1 +1,0 @@
-Character set encoding: UTF-8
